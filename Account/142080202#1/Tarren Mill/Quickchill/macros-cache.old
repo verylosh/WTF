@@ -1,0 +1,86 @@
+VER 3 010000000000000A "." "INV_MISC_QUESTIONMARK"
+#showtooltip Howling Blast
+/cast Howling Blast
+/use 12
+END
+VER 3 010000000000000B "." "INV_MISC_QUESTIONMARK"
+#showtooltip
+/use 13
+END
+VER 3 0100000000000005 "." "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast Pillar of Frost
+/use 13
+/use 14
+END
+VER 3 0100000000000010 "." "INV_MISC_QUESTIONMARK"
+#showtooltip
+/use 13
+/use 14
+END
+VER 3 0100000000000008 "." "INV_MISC_QUESTIONMARK"
+#showtooltip 
+/cast Hook
+END
+VER 3 0100000000000011 "." "INV_MISC_QUESTIONMARK"
+#showtooltip Obliterate
+/cast Obliterate
+/use 14
+END
+VER 3 0100000000000004 "." "INV_MISC_QUESTIONMARK"
+#showtooltip 
+/cast [talent:7/1] Obliteration; [talent:7/2] Breath of Sindragosa; [talent:7/3]Glacial Advance
+END
+VER 3 0100000000000012 "." "INV_MISC_QUESTIONMARK"
+END
+VER 3 0100000000000013 "." "INV_MISC_QUESTIONMARK"
+/showtooltip Howling Blast
+/use 14
+/cast Howling Blast
+END
+VER 3 0100000000000014 "." "INV_MISC_QUESTIONMARK"
+#showtooltip 
+/cast [talent:7/1] Bonestorm; [talent:7/2] Blood Mirror
+END
+VER 3 0100000000000016 "." "INV_MISC_QUESTIONMARK"
+#showtooltip Clawing Shadows
+/cast Clawing Shadows
+/use 14
+END
+VER 3 0100000000000017 "." "INV_MISC_QUESTIONMARK"
+#showtooltip Death Coil
+/cast Death Coil
+/use 12
+END
+VER 3 010000000000000E ".." "INV_MISC_QUESTIONMARK"
+#showtooltip Death and Decay
+/cast [@player]  Death and Decay
+END
+VER 3 010000000000000C "a" "INV_MISC_QUESTIONMARK"
+/way 59.2 65.1 Stonehoof flight point
+/way 54.2 63.4 Turn left at path intersection
+/way 54.0 65.0 Turn left into snow just before bridge
+/way 55.4 71.8 Narrow snowy path on right
+/way 53.5 76.2 Deep Roads cave entrance on right
+END
+VER 3 0100000000000009 "army" "INV_MISC_QUESTIONMARK"
+#showtooltip Apocalypse(Artifact)
+/cast Apocalypse
+/script print(IsQuestFlaggedCompleted(44188))
+END
+VER 3 0100000000000006 "auto" "INV_MISC_QUESTIONMARK"
+/target Trial Master Rotun
+/script SelectGossipOption(2);
+/cast Army of the Dead
+/script print(IsQuestFlaggedCompleted(44188))
+/script SelectGossipOption(1);
+/click StaticPopup1Button1
+END
+VER 3 0100000000000015 "blast" "135833"
+#showtooltip Howling Blast
+/cast [target=Stoneblood Basilisk] Howling Blast
+END
+VER 3 0100000000000007 "grip" "INV_MISC_QUESTIONMARK"
+#showtooltip Death Grip
+/cast [target=focus] Death Grip
+END

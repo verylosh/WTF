@@ -1,0 +1,107 @@
+
+DataStoreDB = {
+	["profileKeys"] = {
+		["Quickchill - Sylvanas"] = "Quickchill - Sylvanas",
+		["Dellera - Sylvanas"] = "Dellera - Sylvanas",
+		["Dellera - Stormscale"] = "Dellera - Stormscale",
+		["Three - Sylvanas"] = "Three - Sylvanas",
+		["Freesugar - Stormscale"] = "Freesugar - Stormscale",
+		["Zooming - Sylvanas"] = "Zooming - Sylvanas",
+		["Damnsouls - Sylvanas"] = "Damnsouls - Sylvanas",
+		["Verylosh - Sylvanas"] = "Verylosh - Sylvanas",
+		["Crzy - Sylvanas"] = "Crzy - Sylvanas",
+		["Thirty - Sylvanas"] = "Thirty - Sylvanas",
+		["Bigthingz - Sylvanas"] = "Bigthingz - Sylvanas",
+		["Freesugar - Sylvanas"] = "Freesugar - Sylvanas",
+		["Quickchill - Tarren Mill"] = "Quickchill - Tarren Mill",
+		["Luffyd - Tarren Mill"] = "Luffyd - Tarren Mill",
+	},
+	["global"] = {
+		["Guilds"] = {
+			["Default.Stormscale.One Wish"] = {
+				["faction"] = "Horde",
+			},
+			["Default.Sylvanas.Doom"] = {
+				["faction"] = "Alliance",
+			},
+			["Default.Sylvanas.Heroes and others"] = {
+				["faction"] = "Alliance",
+			},
+			["Default.Sylvanas.True Hope"] = {
+				["faction"] = "Alliance",
+			},
+			["Default.Sylvanas.Hooligan Squad"] = {
+				["faction"] = "Alliance",
+			},
+			["Default.Stormscale.Sweet Dreams"] = {
+				["faction"] = "Horde",
+			},
+			["Default.Sylvanas.Blood Moon Prophecy"] = {
+				["faction"] = "Alliance",
+			},
+			["Default.Sylvanas.Femmat"] = {
+				["faction"] = "Alliance",
+			},
+			["Default.Sylvanas.Suitably Superior"] = {
+				["faction"] = "Alliance",
+			},
+		},
+		["Version"] = 1,
+		["Characters"] = {
+			["Default.Tarren Mill.Luffyd"] = {
+				["faction"] = "Alliance",
+			},
+			["Default.Stormscale.Dellera"] = {
+				["faction"] = "Horde",
+				["guildName"] = "Sweet Dreams",
+			},
+			["Default.Sylvanas.Zooming"] = {
+				["guildName"] = "Blood Moon Prophecy",
+				["faction"] = "Alliance",
+			},
+			["Default.Sylvanas.Freesugar"] = {
+				["faction"] = "Alliance",
+				["guildName"] = "Suitably Superior",
+			},
+			["Default.Stormscale.Freesugar"] = {
+				["faction"] = "Horde",
+				["guildName"] = "One Wish",
+			},
+			["Default.Sylvanas.Three"] = {
+				["faction"] = "Alliance",
+			},
+			["Default.Sylvanas.Crzy"] = {
+				["faction"] = "Alliance",
+			},
+			["Default.Sylvanas.Quickchill"] = {
+				["faction"] = "Alliance",
+				["guildName"] = "True Hope",
+			},
+			["Default.Sylvanas.Thirty"] = {
+				["faction"] = "Alliance",
+			},
+			["Default.Sylvanas.Dellera"] = {
+				["faction"] = "Alliance",
+			},
+			["Default.Tarren Mill.Quickchill"] = {
+				["faction"] = "Horde",
+			},
+			["Default.Sylvanas.Verylosh"] = {
+				["guildName"] = "Heroes and others",
+				["faction"] = "Alliance",
+			},
+			["Default.Sylvanas.Bigthingz"] = {
+				["guildName"] = "Doom",
+				["faction"] = "Alliance",
+			},
+			["Default.Sylvanas.Damnsouls"] = {
+				["faction"] = "Alliance",
+			},
+		},
+		["ShortToLongRealmNames"] = {
+			["Stormscale"] = "Stormscale",
+			["Sylvanas"] = "Sylvanas",
+			["TarrenMill"] = "Tarren Mill",
+		},
+	},
+}

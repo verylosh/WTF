@@ -1,0 +1,6 @@
+ReforgeLite: disabled
+MagicRunes: enabled
+ComboPointsRedux: disabled
+ComboPointsRedux_Options: disabled
+Hermes: disabled
+Hermes-UI: disabled

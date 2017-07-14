@@ -1,0 +1,12 @@
+VER 3 0100000000000003 "." "INV_MISC_QUESTIONMARK"
+#showtooltip 
+/cast [talent:5/2] Fel Eruption; [talent:5/3] Nemesis
+END
+VER 3 0100000000000005 "." "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@player] Sigil of Flame
+END
+VER 3 0100000000000004 "." "INV_MISC_QUESTIONMARK"
+#showtooltip 
+/cast [talent:7/1] Chaos Blades; [talent:7/2] Fel Barrage;[talent:7/3] Demonic
+END

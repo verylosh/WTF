@@ -1,0 +1,26 @@
+
+PetJournalEnhancedDB = {
+	["namespaces"] = {
+		["Sorting"] = {
+			["global"] = {
+				["sorting"] = {
+					["order"] = 2,
+				},
+			},
+		},
+	},
+	["profileKeys"] = {
+		["Quickchill - Sylvanas"] = "Default",
+		["Thirty - Sylvanas"] = "Default",
+		["Three - Sylvanas"] = "Default",
+		["Zooming - Sylvanas"] = "Default",
+		["Dellera - Sylvanas"] = "Default",
+		["Freesugar - Sylvanas"] = "Default",
+		["Verylosh - Sylvanas"] = "Default",
+		["Crzy - Sylvanas"] = "Default",
+		["Bigthingz - Sylvanas"] = "Default",
+		["Damnsouls - Sylvanas"] = "Default",
+		["Quickchill - Tarren Mill"] = "Default",
+		["Freesugar - Stormscale"] = "Default",
+	},
+}

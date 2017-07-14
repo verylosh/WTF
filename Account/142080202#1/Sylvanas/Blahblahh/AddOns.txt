@@ -1,0 +1,11 @@
+AngryKeystones: disabled
+AskMrRobot: disabled
+AtlasLoot: enabled
+Ace3: enabled
+LibStub: enabled
+LibBabble-Boss-3.0: enabled
+CallbackHandler-1.0: enabled
+LibDataBroker-1.1: enabled
+Bartender4: disabled
+DynamicCam: disabled
+IceHUD: disabled

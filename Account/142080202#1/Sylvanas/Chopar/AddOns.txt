@@ -1,0 +1,4 @@
+MogIt_Accessories: disabled
+MogIt: enabled
+ACP: enabled
+SimpleILevel: enabled

@@ -1,0 +1,10 @@
+
+UseFelslateFor = {
+	["Blue"] = false,
+	["Green"] = true,
+	["Purple"] = true,
+	["Yellow"] = true,
+	["Orange"] = false,
+	["Red"] = false,
+}
+ResetOre = 123918

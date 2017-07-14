@@ -1,0 +1,255 @@
+
+MasterPlanAG = {
+	["Stormscale"] = {
+		["Dellera"] = {
+			["faction"] = "Horde",
+			["class"] = "DEMONHUNTER",
+		},
+		["Verylosh"] = {
+			["faction"] = "Horde",
+			["class"] = "WARRIOR",
+		},
+		["Bashlosh"] = {
+			["faction"] = "Horde",
+			["class"] = "SHAMAN",
+		},
+		["Freesugar"] = {
+			["summary"] = {
+				["inProgress"] = {
+					[7] = 1487017446,
+				},
+			},
+			["faction"] = "Horde",
+			["class"] = "PRIEST",
+			["curRes"] = 692,
+			["lastCacheTime"] = 1477383357,
+		},
+		["Snowrains"] = {
+			["faction"] = "Alliance",
+			["class"] = "WARRIOR",
+		},
+		["Psyborn"] = {
+			["faction"] = "Alliance",
+			["class"] = "WARRIOR",
+		},
+		["Damnsouls"] = {
+			["class"] = "WARLOCK",
+			["faction"] = "Alliance",
+		},
+	},
+	["Sylvanas"] = {
+		["Dellera"] = {
+			["recruitTime"] = 1479765718,
+			["summary"] = {
+				["inProgress"] = {
+					[224] = 1499263640,
+					[179] = 1499264539,
+					[176] = 1499263639,
+					[301] = 1499289740,
+					[151] = 1499262741,
+					[231] = 1499263639,
+				},
+			},
+			["faction"] = "Alliance",
+			["curOil"] = 100,
+			["lastCacheTime"] = 1499857301,
+			["curRes"] = 502,
+			["class"] = "DEMONHUNTER",
+		},
+		["Twentyone"] = {
+			["faction"] = "Alliance",
+			["class"] = "SHAMAN",
+		},
+		["Blahblahh"] = {
+			["class"] = "WARRIOR",
+			["faction"] = "Alliance",
+		},
+		["Three"] = {
+			["faction"] = "Alliance",
+			["class"] = "SHAMAN",
+		},
+		["Theshock"] = {
+			["faction"] = "Alliance",
+			["class"] = "SHAMAN",
+		},
+		["Bigthingz"] = {
+			["recruitTime"] = 1482775287,
+			["summary"] = {
+				["lastOilTime"] = 1499709558,
+				["tt2"] = 1499205767,
+				["tt3"] = true,
+				["ti1"] = 118529,
+				["tt1"] = 1499712557,
+				["ti3"] = 128391,
+				["inProgress"] = {
+					[493] = 1499777939,
+					[242] = 1499768939,
+					[278] = 1499767140,
+					[678] = 1499785141,
+					[316] = 1499792341,
+					[191] = 1499767140,
+				},
+				["ti2"] = 122484,
+			},
+			["curOil"] = 5985,
+			["lastCacheTime"] = 1499203150,
+			["class"] = "ROGUE",
+			["curRes"] = 254,
+			["faction"] = "Alliance",
+		},
+		["Stonesong"] = {
+			["class"] = "WARRIOR",
+			["faction"] = "Alliance",
+		},
+		["Crzy"] = {
+			["class"] = "WARRIOR",
+			["faction"] = "Alliance",
+		},
+		["Vivata"] = {
+			["class"] = "HUNTER",
+			["faction"] = "Horde",
+		},
+		["Zooming"] = {
+			["recruitTime"] = 1479765985,
+			["summary"] = {
+				["lastOilTime"] = 1468746277,
+				["tt2"] = 1468566652,
+				["tt3"] = 1468563652,
+				["tt1"] = 1468441744,
+				["ti1"] = 118529,
+				["ti3"] = 127854,
+				["inProgress"] = {
+					[127] = 1499526784,
+					[191] = 1499515986,
+					[334] = 1499548383,
+					[119] = 1499526784,
+					[385] = 1499526783,
+					[153] = 1499515985,
+					[185] = 1499515985,
+					[493] = 1499526783,
+				},
+				["ti2"] = 122484,
+			},
+			["faction"] = "Alliance",
+			["class"] = "HUNTER",
+			["curRes"] = 2428,
+			["lastCacheTime"] = 1499709822,
+		},
+		["Mysteriez"] = {
+			["class"] = "PRIEST",
+			["faction"] = "Alliance",
+		},
+		["Thirty"] = {
+			["recruitTime"] = 1498457004,
+			["faction"] = "Alliance",
+			["class"] = "MAGE",
+			["curRes"] = 5,
+			["lastCacheTime"] = 1498752500,
+		},
+		["Verylosh"] = {
+			["recruitTime"] = 1473261449,
+			["summary"] = {
+				["lastOilTime"] = 1497275107,
+				["ti2"] = 122486,
+				["inProgress"] = {
+					[191] = 1497358617,
+					[177] = 1497357717,
+					[163] = 1497357717,
+					[171] = 1497356818,
+					[373] = 1497391021,
+					[284] = 1497376620,
+					[391] = 1497383820,
+					[283] = 1497362219,
+					[210] = 1497357721,
+				},
+				["ti3"] = 127854,
+				["ti1"] = 118529,
+				["tt1"] = 1490209597,
+				["tt3"] = true,
+				["tt2"] = 1490346826,
+			},
+			["curOil"] = 8015,
+			["faction"] = "Alliance",
+			["lastCacheTime"] = 1497354890,
+			["curRes"] = 8642,
+			["class"] = "PALADIN",
+		},
+		["Psyborn"] = {
+			["class"] = "WARRIOR",
+			["faction"] = "Alliance",
+		},
+		["Freesugar"] = {
+			["recruitTime"] = 1480279412,
+			["summary"] = {
+				["ti2"] = 122484,
+				["inProgress"] = {
+					[161] = 1499935262,
+					[717] = 1474745637,
+					[428] = 1499958660,
+					[279] = 1499933461,
+					[276] = 1499965860,
+					[493] = 1499944261,
+					[182] = 1499935265,
+					[315] = 1499958662,
+					[286] = 1499951463,
+					[189] = 1499932563,
+					[65] = 1499931664,
+					[274] = 1499958664,
+					[722] = 1474744739,
+				},
+				["ti3"] = 128391,
+				["ti1"] = 118529,
+				["tt1"] = 1499687194,
+				["tt3"] = true,
+				["tt2"] = 1499760606,
+			},
+			["faction"] = "Alliance",
+			["lastCacheTime"] = 1499933468,
+			["class"] = "DRUID",
+			["curRes"] = 7072,
+			["curOil"] = 6945,
+		},
+		["Quickchill"] = {
+			["recruitTime"] = 1479657415,
+			["summary"] = {
+				["inProgress"] = {
+					[179] = 1499684004,
+					[300] = 1499709204,
+				},
+			},
+			["faction"] = "Alliance",
+			["curOil"] = 450,
+			["class"] = "DEATHKNIGHT",
+			["curRes"] = 6063,
+			["lastCacheTime"] = 1498769352,
+		},
+		["Nihilism"] = {
+			["faction"] = "Alliance",
+			["class"] = "WARRIOR",
+		},
+		["Damnsouls"] = {
+			["class"] = "WARLOCK",
+			["faction"] = "Alliance",
+		},
+	},
+	["Argent Dawn"] = {
+		["Freesugar"] = {
+			["class"] = "PRIEST",
+			["faction"] = "Alliance",
+		},
+	},
+	["Tarren Mill"] = {
+		["Quickchill"] = {
+			["faction"] = "Horde",
+			["class"] = "DEATHKNIGHT",
+		},
+		["Luffyd"] = {
+			["class"] = "MONK",
+			["lastCacheTime"] = 1493988393,
+			["curRes"] = 353,
+			["faction"] = "Alliance",
+		},
+	},
+	["IgnoreRewards"] = {
+	},
+}

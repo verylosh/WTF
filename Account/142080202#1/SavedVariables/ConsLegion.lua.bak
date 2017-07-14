@@ -1,0 +1,1399 @@
+
+ConsLegionSavedVar = {
+	["Dellera-Sylvanas"] = {
+		["Settings"] = {
+			["Textleft"] = -3765.708984375,
+			["Scale"] = 0.75,
+			["TextScale"] = 0.75,
+			["SkipCutScene"] = 1,
+			["Newsleft"] = 168.040954589844,
+			["Newsalpha"] = 1,
+			["Hide"] = 1,
+			["AutoChoice"] = 0,
+			["XPLock"] = 0,
+			["AutoHandin"] = 0,
+			["Textalpha"] = 1,
+			["Arrowy"] = -603.672515869141,
+			["XPScale"] = 0.75,
+			["NewsHide"] = 1,
+			["AutoPickup"] = 0,
+			["Newstop"] = -440.807678222656,
+			["XPalpha"] = 1,
+			["NewsScale"] = 0.75,
+			["XPHide"] = 1,
+			["Arrowx"] = -2828.1904296875,
+			["XPleft"] = 273.066691080729,
+			["Lock"] = 0,
+			["AutoShare"] = 0,
+			["TextHide"] = 0,
+			["Texttop"] = -752.455322265625,
+			["TextLock"] = 0,
+			["alpha"] = 1,
+			["top"] = -512.000061035156,
+			["XPInvert"] = 0,
+			["NewsLock"] = 0,
+			["left"] = 327.680029296875,
+			["TextInvert"] = 0,
+			["XPtop"] = -682.666748046875,
+		},
+	},
+	["Luffyd-TarrenMill"] = {
+		["Settings"] = {
+			["AutoPickup"] = 0,
+			["Textleft"] = 780.190545944941,
+			["Newstop"] = -683.642059326172,
+			["left"] = 327.680029296875,
+			["Scale"] = 0.75,
+			["XPalpha"] = 1,
+			["TextInvert"] = 0,
+			["XPHide"] = 0,
+			["Arrowx"] = 819.200073242188,
+			["SkipCutScene"] = 1,
+			["XPleft"] = -2149.42529296875,
+			["Newsleft"] = -3792.40063476563,
+			["Newsalpha"] = 1,
+			["TextHide"] = 0,
+			["TextLock"] = 0,
+			["Hide"] = 0,
+			["AutoChoice"] = 0,
+			["XPLock"] = 0,
+			["Texttop"] = -787.692401592548,
+			["AutoHandin"] = 0,
+			["Textalpha"] = 1,
+			["XPtop"] = -673.889587402344,
+			["alpha"] = 1,
+			["Arrowy"] = -512.000061035156,
+			["top"] = -512.000061035156,
+			["XPInvert"] = 0,
+			["TextScale"] = 0.75,
+			["NewsScale"] = 0.75,
+			["NewsLock"] = 0,
+			["XPScale"] = 0.75,
+			["Lock"] = 0,
+			["NewsHide"] = 0,
+		},
+	},
+	["Quickchill-Sylvanas"] = {
+		["Settings"] = {
+			["Textleft"] = 778.936476934524,
+			["Scale"] = 0.75,
+			["TextScale"] = 0.75,
+			["SkipCutScene"] = 0,
+			["Newsleft"] = 1258.28200120192,
+			["Newsalpha"] = 1,
+			["Hide"] = 1,
+			["AutoChoice"] = 0,
+			["XPLock"] = 1,
+			["AutoHandin"] = 0,
+			["Textalpha"] = 1,
+			["Arrowy"] = -512,
+			["XPScale"] = 0.75,
+			["NewsHide"] = 1,
+			["AutoPickup"] = 0,
+			["Newstop"] = -341.333333333333,
+			["XPalpha"] = 1,
+			["NewsScale"] = 0.75,
+			["XPHide"] = 1,
+			["Arrowx"] = 817.88330078125,
+			["XPleft"] = 272.627766927083,
+			["Lock"] = 1,
+			["AutoShare"] = 0,
+			["TextHide"] = 1,
+			["Texttop"] = -787.692307692308,
+			["TextLock"] = 1,
+			["alpha"] = 1,
+			["top"] = -512,
+			["XPInvert"] = 0,
+			["NewsLock"] = 1,
+			["XPtop"] = -682.666666666667,
+			["TextInvert"] = 0,
+			["left"] = 327.1533203125,
+		},
+	},
+	["Zooming-Sylvanas"] = {
+		["Settings"] = {
+			["Textleft"] = -1096.25915527344,
+			["Scale"] = 0.75,
+			["TextScale"] = 0.83,
+			["SkipCutScene"] = 1,
+			["Newsleft"] = 1286.63928222656,
+			["Newsalpha"] = 1,
+			["Hide"] = 1,
+			["AutoChoice"] = 0,
+			["XPLock"] = 0,
+			["AutoHandin"] = 0,
+			["Textalpha"] = 1,
+			["Arrowy"] = -330.60595703125,
+			["XPScale"] = 0.75,
+			["NewsHide"] = 1,
+			["AutoPickup"] = 0,
+			["Newstop"] = -501.272521972656,
+			["XPalpha"] = 1,
+			["NewsScale"] = 0.75,
+			["XPHide"] = 1,
+			["Arrowx"] = -1448.228515625,
+			["XPleft"] = 273.066691080729,
+			["Lock"] = 0,
+			["AutoShare"] = 0,
+			["TextHide"] = 1,
+			["Texttop"] = -718.272521972656,
+			["TextLock"] = 0,
+			["alpha"] = 1,
+			["top"] = -373.516235351563,
+			["XPInvert"] = 0,
+			["NewsLock"] = 0,
+			["left"] = 432.030578613281,
+			["TextInvert"] = 0,
+			["XPtop"] = -682.666748046875,
+		},
+	},
+	["Freesugar-Sylvanas"] = {
+		["Settings"] = {
+			["Textleft"] = -1635.6533203125,
+			["Scale"] = 0.75,
+			["TextScale"] = 0.75,
+			["SkipCutScene"] = 1,
+			["Newsleft"] = 191.019134521484,
+			["Newsalpha"] = 1,
+			["Hide"] = 1,
+			["AutoChoice"] = 0,
+			["XPLock"] = 0,
+			["AutoHandin"] = 0,
+			["Textalpha"] = 1,
+			["Arrowy"] = -348.160095214844,
+			["XPScale"] = 0.75,
+			["NewsHide"] = 1,
+			["AutoPickup"] = 0,
+			["Newstop"] = -416.063232421875,
+			["XPalpha"] = 1,
+			["NewsScale"] = 0.75,
+			["XPHide"] = 1,
+			["Arrowx"] = -1904.87683105469,
+			["XPleft"] = -9.08881855010986,
+			["Lock"] = 0,
+			["AutoShare"] = 0,
+			["TextHide"] = 1,
+			["Texttop"] = -345.909423828125,
+			["TextLock"] = 0,
+			["alpha"] = 1,
+			["top"] = -511.999969482422,
+			["XPInvert"] = 0,
+			["NewsLock"] = 0,
+			["XPtop"] = -549.364837646484,
+			["TextInvert"] = 0,
+			["left"] = 327.195239257813,
+		},
+	},
+	["Dellera-Stormscale"] = {
+		["Settings"] = {
+			["Textleft"] = 780.383475167411,
+			["Scale"] = 0.75,
+			["TextScale"] = 0.75,
+			["SkipCutScene"] = 1,
+			["Newsleft"] = 1674.87841796875,
+			["Newsalpha"] = 1,
+			["Hide"] = 0,
+			["AutoChoice"] = 0,
+			["XPLock"] = 0,
+			["AutoHandin"] = 0,
+			["Textalpha"] = 1,
+			["Arrowy"] = -512,
+			["XPScale"] = 0.75,
+			["NewsHide"] = 0,
+			["AutoPickup"] = 0,
+			["Newstop"] = -1099.96431732178,
+			["XPalpha"] = 1,
+			["NewsScale"] = 0.75,
+			["XPHide"] = 0,
+			["Arrowx"] = 819.402648925781,
+			["XPleft"] = 1304.22412109375,
+			["Lock"] = 0,
+			["AutoShare"] = 0,
+			["TextHide"] = 0,
+			["Texttop"] = -787.692307692308,
+			["TextLock"] = 0,
+			["alpha"] = 1,
+			["top"] = -512,
+			["XPInvert"] = 0,
+			["NewsLock"] = 0,
+			["left"] = 327.761059570313,
+			["TextInvert"] = 0,
+			["XPtop"] = -1069.57865524292,
+		},
+	},
+	["Freesugar-ArgentDawn"] = {
+		["Settings"] = {
+			["AutoPickup"] = 0,
+			["Textleft"] = 809.186779203869,
+			["Newstop"] = -341.333333333333,
+			["left"] = 339.858447265625,
+			["Scale"] = 0.75,
+			["XPalpha"] = 1,
+			["TextInvert"] = 0,
+			["XPHide"] = 0,
+			["Arrowx"] = 849.646118164062,
+			["SkipCutScene"] = 1,
+			["XPleft"] = 283.215372721354,
+			["Newsleft"] = 1307.14787409856,
+			["Newsalpha"] = 1,
+			["TextHide"] = 0,
+			["TextLock"] = 0,
+			["Hide"] = 0,
+			["AutoChoice"] = 0,
+			["XPLock"] = 0,
+			["Texttop"] = -787.692307692308,
+			["AutoHandin"] = 0,
+			["Textalpha"] = 1,
+			["XPtop"] = -682.666666666667,
+			["alpha"] = 1,
+			["Arrowy"] = -512,
+			["top"] = -512,
+			["XPInvert"] = 0,
+			["TextScale"] = 0.75,
+			["NewsScale"] = 0.75,
+			["NewsLock"] = 0,
+			["XPScale"] = 0.75,
+			["Lock"] = 0,
+			["NewsHide"] = 0,
+		},
+	},
+	["Snowrains-Stormscale"] = {
+		["Settings"] = {
+			["AutoPickup"] = 0,
+			["Textleft"] = 780.190545944941,
+			["Newstop"] = -341.333374023438,
+			["TextInvert"] = 0,
+			["Scale"] = 0.75,
+			["XPalpha"] = 1,
+			["left"] = 327.680029296875,
+			["XPHide"] = 0,
+			["Arrowx"] = 819.200073242188,
+			["Newsleft"] = 1260.30780498798,
+			["XPleft"] = 273.066691080729,
+			["Lock"] = 0,
+			["Newsalpha"] = 1,
+			["TextHide"] = 0,
+			["AutoHandin"] = 0,
+			["Hide"] = 0,
+			["AutoChoice"] = 0,
+			["XPLock"] = 0,
+			["Texttop"] = -787.692401592548,
+			["TextLock"] = 0,
+			["Textalpha"] = 1,
+			["XPtop"] = -682.666748046875,
+			["alpha"] = 1,
+			["Arrowy"] = -512.000061035156,
+			["top"] = -512.000061035156,
+			["XPInvert"] = 0,
+			["NewsScale"] = 0.75,
+			["TextScale"] = 0.75,
+			["NewsLock"] = 0,
+			["XPScale"] = 0.75,
+			["SkipCutScene"] = 1,
+			["NewsHide"] = 0,
+		},
+	},
+	["Thirty-Sylvanas"] = {
+		["Settings"] = {
+			["Textleft"] = -742.051879882813,
+			["Scale"] = 0.75,
+			["TextScale"] = 0.75,
+			["SkipCutScene"] = 1,
+			["Newsleft"] = -1018.27978515625,
+			["Newsalpha"] = 1,
+			["Hide"] = 0,
+			["AutoChoice"] = 0,
+			["XPLock"] = 0,
+			["AutoHandin"] = 0,
+			["Textalpha"] = 1,
+			["Arrowy"] = -370.590515136719,
+			["XPScale"] = 0.75,
+			["NewsHide"] = 0,
+			["AutoPickup"] = 0,
+			["Newstop"] = -468.114440917969,
+			["XPalpha"] = 1,
+			["NewsScale"] = 0.75,
+			["XPHide"] = 0,
+			["Arrowx"] = -802.56005859375,
+			["XPleft"] = -2328.98510742188,
+			["Lock"] = 0,
+			["AutoShare"] = 0,
+			["TextHide"] = 0,
+			["Texttop"] = -398.572265625,
+			["TextLock"] = 0,
+			["alpha"] = 1,
+			["top"] = -437.069091796875,
+			["XPInvert"] = 0,
+			["NewsLock"] = 0,
+			["XPtop"] = -1190.26586914063,
+			["TextInvert"] = 0,
+			["left"] = -536.990539550781,
+		},
+	},
+	["Freesugar-Stormscale"] = {
+		["Settings"] = {
+			["Textleft"] = 1366.40002441406,
+			["Scale"] = 0.78,
+			["TextScale"] = 0.94,
+			["SkipCutScene"] = 0,
+			["Newsleft"] = 1605.00500488281,
+			["Newsalpha"] = 1,
+			["Hide"] = 1,
+			["AutoChoice"] = 0,
+			["XPLock"] = 0,
+			["AutoHandin"] = 0,
+			["Textalpha"] = 0.89,
+			["Arrowy"] = -305.249938964844,
+			["XPScale"] = 0.75,
+			["NewsHide"] = 0,
+			["AutoPickup"] = 0,
+			["Newstop"] = -1092.76858520508,
+			["XPalpha"] = 1,
+			["NewsScale"] = 0.75,
+			["XPHide"] = 1,
+			["Arrowx"] = -1364.19360351563,
+			["XPleft"] = 1566.77624511719,
+			["Lock"] = 0,
+			["AutoShare"] = 0,
+			["TextHide"] = 1,
+			["Texttop"] = -243.000061035156,
+			["TextLock"] = 0,
+			["alpha"] = 1,
+			["top"] = -705.097351074219,
+			["XPInvert"] = 0,
+			["NewsLock"] = 0,
+			["XPtop"] = -1068.53419113159,
+			["left"] = 98.1749267578125,
+			["TextInvert"] = 0,
+		},
+	},
+	["Bigthingz-Sylvanas"] = {
+		["Settings"] = {
+			["Textleft"] = -2660.83837890625,
+			["Scale"] = 0.75,
+			["TextScale"] = 0.75,
+			["SkipCutScene"] = 1,
+			["Newsleft"] = 90.6470565795899,
+			["Newsalpha"] = 1,
+			["Hide"] = 1,
+			["AutoChoice"] = 0,
+			["XPLock"] = 0,
+			["AutoHandin"] = 0,
+			["Textalpha"] = 1,
+			["Arrowy"] = -1220.02297973633,
+			["XPScale"] = 0.75,
+			["NewsHide"] = 1,
+			["AutoPickup"] = 0,
+			["Newstop"] = -513.015777587891,
+			["XPalpha"] = 1,
+			["NewsScale"] = 0.75,
+			["XPHide"] = 1,
+			["Arrowx"] = -2068.41943359375,
+			["XPleft"] = -43.1745758056641,
+			["Lock"] = 0,
+			["AutoShare"] = 0,
+			["TextHide"] = 0,
+			["Texttop"] = -297.944885253906,
+			["TextLock"] = 0,
+			["alpha"] = 1,
+			["top"] = -407.649475097656,
+			["XPInvert"] = 0,
+			["NewsLock"] = 0,
+			["left"] = 128.365692138672,
+			["TextInvert"] = 0,
+			["XPtop"] = -601.396697998047,
+		},
+	},
+	["Damnsouls-Stormscale"] = {
+		["Settings"] = {
+			["AutoPickup"] = 0,
+			["Textleft"] = 780.190545944941,
+			["Newstop"] = -185.295288085938,
+			["TextInvert"] = 0,
+			["Scale"] = 0.75,
+			["XPalpha"] = 1,
+			["left"] = 327.680029296875,
+			["XPHide"] = 0,
+			["Arrowx"] = 819.200073242188,
+			["Newsleft"] = -308.850402832031,
+			["XPleft"] = 273.066691080729,
+			["Lock"] = 0,
+			["Newsalpha"] = 1,
+			["TextHide"] = 0,
+			["AutoHandin"] = 0,
+			["Hide"] = 0,
+			["AutoChoice"] = 0,
+			["XPLock"] = 0,
+			["Texttop"] = -787.692401592548,
+			["TextLock"] = 0,
+			["Textalpha"] = 1,
+			["XPtop"] = -682.666748046875,
+			["alpha"] = 1,
+			["Arrowy"] = -512.000061035156,
+			["top"] = -512.000061035156,
+			["XPInvert"] = 0,
+			["NewsScale"] = 0.75,
+			["TextScale"] = 0.75,
+			["NewsLock"] = 0,
+			["XPScale"] = 0.75,
+			["SkipCutScene"] = 1,
+			["NewsHide"] = 0,
+		},
+	},
+	["Verylosh-Sylvanas"] = {
+		["Settings"] = {
+			["Textleft"] = -1812.96813964844,
+			["Scale"] = 0.75,
+			["TextScale"] = 0.75,
+			["SkipCutScene"] = 1,
+			["Newsleft"] = 1260.30780498798,
+			["Newsalpha"] = 1,
+			["Hide"] = 1,
+			["AutoChoice"] = 0,
+			["XPLock"] = 0,
+			["AutoHandin"] = 0,
+			["Textalpha"] = 1,
+			["Arrowy"] = -243.809631347656,
+			["XPScale"] = 0.75,
+			["NewsHide"] = 1,
+			["AutoPickup"] = 0,
+			["Newstop"] = -341.333374023438,
+			["XPalpha"] = 1,
+			["NewsScale"] = 0.75,
+			["XPHide"] = 1,
+			["Arrowx"] = -1123.4736328125,
+			["XPleft"] = 273.066691080729,
+			["Lock"] = 0,
+			["AutoShare"] = 0,
+			["TextHide"] = 1,
+			["Texttop"] = -322.50390625,
+			["TextLock"] = 0,
+			["alpha"] = 1,
+			["top"] = -512.000061035156,
+			["XPInvert"] = 0,
+			["NewsLock"] = 0,
+			["XPtop"] = -682.666748046875,
+			["TextInvert"] = 0,
+			["left"] = 327.680029296875,
+		},
+	},
+}
+ConsLegionSteps = {
+	["Dellera-Sylvanas"] = {
+		[1080] = 79,
+		[1018] = 3,
+		[1015] = 30,
+	},
+	["Luffyd-TarrenMill"] = {
+	},
+	["Quickchill-Sylvanas"] = {
+		[1015] = 315,
+	},
+	["Zooming-Sylvanas"] = {
+		[1080] = 79,
+		[1018] = 1,
+		[1017] = 1,
+		[1015] = 2,
+	},
+	["Freesugar-Sylvanas"] = {
+		[1080] = 79,
+		[1015] = 3,
+		[1018] = 36,
+	},
+	["Dellera-Stormscale"] = {
+	},
+	["Freesugar-ArgentDawn"] = {
+	},
+	["Snowrains-Stormscale"] = {
+	},
+	["Thirty-Sylvanas"] = {
+		[1015] = 42,
+		[1017] = 179,
+		[1080] = 79,
+		[1018] = 36,
+		[1022] = 40,
+	},
+	["Freesugar-Stormscale"] = {
+		[1018] = 285,
+		[1017] = 183,
+		[1015] = 315,
+	},
+	["Bigthingz-Sylvanas"] = {
+		[1080] = 2,
+		[1018] = 4,
+		[1017] = 1,
+		[1015] = 164,
+	},
+	["Damnsouls-Stormscale"] = {
+	},
+	["Verylosh-Sylvanas"] = {
+		[1080] = 186,
+		[1018] = 36,
+		[1017] = 1,
+		[1015] = 42,
+	},
+}
+CL_NewsEpics = {
+	{
+		["Name"] = "Thirty",
+		["Loot"] = "Empyrean Sapphire",
+		["Link"] = "|cffa335ee|Hitem:32228::::::::101:63::::::|h[Empyrean Sapphire]|h|r",
+	}, -- [1]
+	{
+		["Name"] = "Thirty",
+		["Loot"] = "Shadowsong Amethyst",
+		["Link"] = "|cffa335ee|Hitem:32230::::::::101:63::::::|h[Shadowsong Amethyst]|h|r",
+	}, -- [2]
+	{
+		["Ding"] = 102,
+		["Name"] = "Thirty",
+		["Date"] = "09/24/16 23:01:38",
+	}, -- [3]
+	{
+		["Loot"] = "Hexweave Bag",
+		["Name"] = "Quickchill",
+		["Link"] = "|cffa335ee|Hitem:114821::::::::110:251::::::|h[Hexweave Bag]|h|r",
+	}, -- [4]
+	{
+		["Loot"] = "Hexweave Bag",
+		["Name"] = "Quickchill",
+		["Link"] = "|cffa335ee|Hitem:114821::::::::110:251::::::|h[Hexweave Bag]|h|r",
+	}, -- [5]
+	{
+		["Loot"] = "Hexweave Bag",
+		["Name"] = "Quickchill",
+		["Link"] = "|cffa335ee|Hitem:114821::::::::110:251::::::|h[Hexweave Bag]|h|r",
+	}, -- [6]
+	{
+		["Loot"] = "Hexweave Bag",
+		["Name"] = "Quickchill",
+		["Link"] = "|cffa335ee|Hitem:114821::::::::110:251::::::|h[Hexweave Bag]|h|r",
+	}, -- [7]
+	{
+		["Loot"] = "Hexweave Bag",
+		["Name"] = "Quickchill",
+		["Link"] = "|cffa335ee|Hitem:114821::::::::110:251::::::|h[Hexweave Bag]|h|r",
+	}, -- [8]
+	{
+		["Loot"] = "Bracers of the Forgotten Conqueror",
+		["Name"] = "Freesugar",
+		["Link"] = "|cffa335ee|Hitem:34848::::::::100:258::::::|h[Bracers of the Forgotten Conqueror]|h|r",
+	}, -- [9]
+	{
+		["Loot"] = "Belt of the Forgotten Vanquisher",
+		["Name"] = "Freesugar",
+		["Link"] = "|cffa335ee|Hitem:34855::::::::100:258::::::|h[Belt of the Forgotten Vanquisher]|h|r",
+	}, -- [10]
+	{
+		["Loot"] = "Felfury Legplates",
+		["Name"] = "Freesugar",
+		["Link"] = "|cffa335ee|Hitem:34180::::::::100:258::::::|h[Felfury Legplates]|h|r",
+	}, -- [11]
+	{
+		["Loot"] = "Belt of the Forgotten Vanquisher",
+		["Name"] = "Freesugar",
+		["Link"] = "|cffa335ee|Hitem:34855::::::::100:258::::::|h[Belt of the Forgotten Vanquisher]|h|r",
+	}, -- [12]
+	{
+		["Loot"] = "Belt of the Forgotten Protector",
+		["Name"] = "Freesugar",
+		["Link"] = "|cffa335ee|Hitem:34854::::::::100:258::::::|h[Belt of the Forgotten Protector]|h|r",
+	}, -- [13]
+	{
+		["Loot"] = "Grand Magister's Staff of Torrents",
+		["Name"] = "Freesugar",
+		["Link"] = "|cffa335ee|Hitem:34182::::::::100:258::::::|h[Grand Magister's Staff of Torrents]|h|r",
+	}, -- [14]
+	{
+		["Loot"] = "Boots of the Forgotten Protector",
+		["Name"] = "Freesugar",
+		["Link"] = "|cffa335ee|Hitem:34857::::::::100:258::::::|h[Boots of the Forgotten Protector]|h|r",
+	}, -- [15]
+	{
+		["Loot"] = "Boots of the Forgotten Protector",
+		["Name"] = "Freesugar",
+		["Link"] = "|cffa335ee|Hitem:34857::::::::100:258::::::|h[Boots of the Forgotten Protector]|h|r",
+	}, -- [16]
+	{
+		["Loot"] = "Boots of the Forgotten Vanquisher",
+		["Name"] = "Freesugar",
+		["Link"] = "|cffa335ee|Hitem:34858::::::::100:258::::::|h[Boots of the Forgotten Vanquisher]|h|r",
+	}, -- [17]
+	{
+		["Loot"] = "Archon's Gavel",
+		["Name"] = "Freesugar",
+		["Link"] = "|cffa335ee|Hitem:34199::::::::100:258::::::|h[Archon's Gavel]|h|r",
+	}, -- [18]
+	{
+		["Loot"] = "Robes of Faltered Light",
+		["Name"] = "Freesugar",
+		["Link"] = "|cffa335ee|Hitem:34233::::::::100:258::::::|h[Robes of Faltered Light]|h|r",
+	}, -- [19]
+	{
+		["Loot"] = "Thori'dal, the Stars' Fury",
+		["Name"] = "Freesugar",
+		["Link"] = "|cffff8000|Hitem:34334::::::::100:258::::::|h[Thori'dal, the Stars' Fury]|h|r",
+	}, -- [20]
+	{
+		["Loot"] = "Heart-Shaped Box",
+		["Name"] = "Freesugar",
+		["Link"] = "|cffa335ee|Hitem:54537::::::::100:258::1::::|h[Heart-Shaped Box]|h|r",
+	}, -- [21]
+	{
+		["Loot"] = "Heartbreak Charm",
+		["Name"] = "Freesugar",
+		["Link"] = "|cffa335ee|Hitem:143906::::::::100:258:512:1:1:615:100:::|h[Heartbreak Charm]|h|r",
+	}, -- [22]
+	{
+		["Ding"] = 101,
+		["Name"] = "Freesugar",
+		["Date"] = "02/07/17 16:27:41",
+	}, -- [23]
+	{
+		["Loot"] = "Heart-Shaped Box",
+		["Name"] = "Befine",
+		["Link"] = "|cffa335ee|Hitem:54537::::::::63:268::1::::|h[Heart-Shaped Box]|h|r",
+	}, -- [24]
+	{
+		["Ding"] = 102,
+		["Name"] = "Freesugar",
+		["Date"] = "02/07/17 18:17:32",
+	}, -- [25]
+	{
+		["Loot"] = "Heart-Shaped Box",
+		["Name"] = "Freesugar",
+		["Link"] = "|cffa335ee|Hitem:54537::::::::102:256::1::::|h[Heart-Shaped Box]|h|r",
+	}, -- [26]
+	{
+		["Name"] = "Dellera",
+		["Loot"] = "Heart-Shaped Box",
+		["Link"] = "|cffa335ee|Hitem:54537::::::::100:581::1::::|h[Heart-Shaped Box]|h|r",
+	}, -- [27]
+	{
+		["Name"] = "Freesugar",
+		["Loot"] = "Heart-Shaped Box",
+		["Link"] = "|cffa335ee|Hitem:54537::::::::102:256::1::::|h[Heart-Shaped Box]|h|r",
+	}, -- [28]
+	{
+		["Name"] = "Freesugar",
+		["Loot"] = "Sweet Perfume Broach",
+		["Link"] = "|cffa335ee|Hitem:143909::::::::102:256:512:1:1:615:102:::|h[Sweet Perfume Broach]|h|r",
+	}, -- [29]
+	{
+		["Loot"] = "Heart-Shaped Box",
+		["Name"] = "Dellera",
+		["Link"] = "|cffa335ee|Hitem:54537::::::::100:581::1::::|h[Heart-Shaped Box]|h|r",
+	}, -- [30]
+	{
+		["Ding"] = 103,
+		["Name"] = "Freesugar",
+		["Date"] = "02/10/17 01:41:55",
+	}, -- [31]
+	{
+		["Loot"] = "Glory of the Order",
+		["Name"] = "Freesugar",
+		["Link"] = "|cffa335ee|Hitem:140517::::::::103:257:8388608:11::1:::|h[Glory of the Order]|h|r",
+	}, -- [32]
+	{
+		["Ding"] = 104,
+		["Name"] = "Freesugar",
+		["Date"] = "02/11/17 00:01:38",
+	}, -- [33]
+	{
+		["Loot"] = "Brief History of the Ages",
+		["Name"] = "Freesugar",
+		["Link"] = "|cffa335ee|Hitem:138782::::::::104:258:8388608:::1:::|h[Brief History of the Ages]|h|r",
+	}, -- [34]
+	{
+		["Ding"] = 105,
+		["Name"] = "Freesugar",
+		["Date"] = "02/11/17 10:32:49",
+	}, -- [35]
+	{
+		["Loot"] = "Blood of the Snake",
+		["Name"] = "Freesugar",
+		["Link"] = "|cffa335ee|Hitem:133020::::::::105:258:512:11:2:1793:1741:105:::|h[Blood of the Snake]|h|r",
+	}, -- [36]
+	{
+		["Ding"] = 107,
+		["Name"] = "Freesugar",
+		["Date"] = "02/12/17 13:55:03",
+	}, -- [37]
+	{
+		["Loot"] = "Glory of the Order",
+		["Name"] = "Freesugar",
+		["Link"] = "|cffa335ee|Hitem:140517::::::::107:258:8388608:11::1:::|h[Glory of the Order]|h|r",
+	}, -- [38]
+	{
+		["Ding"] = 110,
+		["Name"] = "Freesugar",
+		["Date"] = "02/12/17 19:17:56",
+	}, -- [39]
+	{
+		["Loot"] = "Blackrock Foundry Spoils",
+		["Name"] = "Verylosh",
+		["Link"] = "|cffa335ee|Hitem:122486::::::::110:70::::::|h[Blackrock Foundry Spoils]|h|r",
+	}, -- [40]
+	{
+		["Loot"] = "Seal of the Savage Howl",
+		["Name"] = "Verylosh",
+		["Link"] = "|cffa335ee|Hitem:113940::::::::110:70::6:1:567:::|h[Seal of the Savage Howl]|h|r",
+	}, -- [41]
+	{
+		["Name"] = "Verylosh",
+		["Loot"] = "Archmage Karlain's Imbued Silkweave Robe",
+		["Link"] = "|cffa335ee|Hitem:136352::::::::110:66::::::|h[Archmage Karlain's Imbued Silkweave Robe]|h|r",
+	}, -- [42]
+	{
+		["Name"] = "Verylosh",
+		["Loot"] = "Handful of Obliterum Ash",
+		["Link"] = "|cffa335ee|Hitem:136351::::::::110:66::::::|h[Handful of Obliterum Ash]|h|r",
+	}, -- [43]
+	{
+		["Name"] = "Verylosh",
+		["Loot"] = "Obliterum Ash",
+		["Link"] = "|cffa335ee|Hitem:136342::::::::110:66::::::|h[Obliterum Ash]|h|r",
+	}, -- [44]
+	{
+		["Name"] = "Verylosh",
+		["Loot"] = "Obliterum",
+		["Link"] = "|cffa335ee|Hitem:124125::::::::110:66::::::|h[Obliterum]|h|r",
+	}, -- [45]
+	{
+		["Name"] = "Verylosh",
+		["Loot"] = "Nightsfall Vambraces",
+		["Link"] = "|cffa335ee|Hitem:139062::::::::110:70::25:3:1824:1517:3528:::|h[Nightsfall Vambraces]|h|r",
+	}, -- [46]
+	{
+		["Name"] = "Verylosh",
+		["Loot"] = "Disgraced Court Cloak",
+		["Link"] = "|cffa335ee|Hitem:134334::::::::110:70::25:3:1824:1517:3528:::|h[Disgraced Court Cloak]|h|r",
+	}, -- [47]
+	{
+		["Name"] = "Verylosh",
+		["Loot"] = "Wardbreaker Girdle",
+		["Link"] = "|cffa335ee|Hitem:136727::::::::110:70::25:3:1824:1537:3337:::|h[Wardbreaker Girdle]|h|r",
+	}, -- [48]
+	{
+		["Loot"] = "Moonshatter Gauntlets",
+		["Name"] = "Verylosh",
+		["Link"] = "|cffa335ee|Hitem:146850::::::::110:70::26:3:1825:1517:3528:::|h[Moonshatter Gauntlets]|h|r",
+	}, -- [49]
+	{
+		["Loot"] = "Moonshatter Vambraces",
+		["Name"] = "Verylosh",
+		["Link"] = "|cffa335ee|Hitem:146856::::::::110:70::25:4:1824:43:1517:3528:::|h[Moonshatter Vambraces]|h|r",
+	}, -- [50]
+	{
+		["Name"] = "Verylosh",
+		["Loot"] = "Potentially Precious Gem",
+		["Link"] = "|cffa335ee|Hitem:146955::::::::110:70::::::|h[Potentially Precious Gem]|h|r",
+	}, -- [51]
+	{
+		["Name"] = "Verylosh",
+		["Loot"] = "Fel-Oiled Infernal Machine",
+		["Link"] = "|cffa335ee|Hitem:144482::::::::110:70::2:3:1726:1497:3528:::|h[Fel-Oiled Infernal Machine]|h|r",
+	}, -- [52]
+	{
+		["Name"] = "Verylosh",
+		["Loot"] = "Ironrune Charm",
+		["Link"] = "|cffa335ee|Hitem:134190::::::::110:70::25:4:1824:607:1522:3336:::|h[Ironrune Charm]|h|r",
+	}, -- [53]
+	{
+		["Loot"] = "Untouched Holy Candle",
+		["Name"] = "Verylosh",
+		["Link"] = "|cffa335ee|Hitem:146934::::::::110:70::11::::|h[Untouched Holy Candle]|h|r",
+	}, -- [54]
+	{
+		["Loot"] = "Rugged Marauder Cape",
+		["Name"] = "Verylosh",
+		["Link"] = "|cffa335ee|Hitem:134407::::::::110:66::2:3:1726:1497:3528:::|h[Rugged Marauder Cape]|h|r",
+	}, -- [55]
+	{
+		["Loot"] = "Moonshatter Pauldrons",
+		["Name"] = "Verylosh",
+		["Link"] = "|cffa335ee|Hitem:146854::::::::110:66::25:3:1824:1517:3528:::|h[Moonshatter Pauldrons]|h|r",
+	}, -- [56]
+	{
+		["Loot"] = "Nethershard Essence",
+		["Name"] = "Verylosh",
+		["Link"] = "|cffff8000|Hitem:146659::::::::110:66::::::|h[Nethershard Essence]|h|r",
+	}, -- [57]
+	{
+		["Loot"] = "Animus Pendant of the Harmonious",
+		["Name"] = "Verylosh",
+		["Link"] = "|cffa335ee|Hitem:147263::::::::110:70:::4:1777:3574:1642:3528:::|h[Animus Pendant of the Harmonious]|h|r",
+	}, -- [58]
+	{
+		["Loot"] = "Wrathguard Choker",
+		["Name"] = "Verylosh",
+		["Link"] = "|cffa335ee|Hitem:146867::::::::110:70::25:3:1824:1517:3528:::|h[Wrathguard Choker]|h|r",
+	}, -- [59]
+	{
+		["Loot"] = "Storm-Tempered Legplates of the Feverflare",
+		["Name"] = "Verylosh",
+		["Link"] = "|cffa335ee|Hitem:147248::::::::110:66:::5:1703:40:3574:1642:3528:::|h[Storm-Tempered Legplates of the Feverflare]|h|r",
+	}, -- [60]
+	{
+		["Name"] = "Verylosh",
+		["Loot"] = "Promising Treasure Key",
+		["Link"] = "|cffa335ee|Hitem:146956::::::::110:66::::::|h[Promising Treasure Key]|h|r",
+	}, -- [61]
+	{
+		["Loot"] = "Moonshatter Vambraces",
+		["Name"] = "Verylosh",
+		["Link"] = "|cffa335ee|Hitem:146856::::::::110:66::27:3:3394:1522:3528:::|h[Moonshatter Vambraces]|h|r",
+	}, -- [62]
+	{
+		["Loot"] = "Storm-Tempered Legplates of the Peerless",
+		["Name"] = "Verylosh",
+		["Link"] = "|cffa335ee|Hitem:147248::::::::110:66:::5:1688:1808:3574:1642:3528:::|h[Storm-Tempered Legplates of the Peerless]|h|r",
+	}, -- [63]
+	{
+		["Name"] = "Verylosh",
+		["Loot"] = "Invincible Armor Set",
+		["Link"] = "|cffa335ee|Hitem:147350::::::::110:70::::::|h[Invincible Armor Set]|h|r",
+	}, -- [64]
+	{
+		["Loot"] = "Moonshatter Greaves",
+		["Name"] = "Verylosh",
+		["Link"] = "|cffa335ee|Hitem:146853::::::::110:66::26:3:1825:1522:3336:::|h[Moonshatter Greaves]|h|r",
+	}, -- [65]
+	{
+		["Name"] = "Verylosh",
+		["Loot"] = "Moonshatter Helmet",
+		["Link"] = "|cffa335ee|Hitem:146852::::::::110:66::26:4:1825:42:1517:3528:::|h[Moonshatter Helmet]|h|r",
+	}, -- [66]
+	{
+		["Name"] = "Verylosh",
+		["Loot"] = "Mysterious Potion",
+		["Link"] = "|cffa335ee|Hitem:146957::::::::110:66::::::|h[Mysterious Potion]|h|r",
+	}, -- [67]
+	{
+		["Name"] = "Verylosh",
+		["Loot"] = "Nightsfall Helmet",
+		["Link"] = "|cffa335ee|Hitem:139058::::::::110:66::26:3:1825:1522:3336:::|h[Nightsfall Helmet]|h|r",
+	}, -- [68]
+	{
+		["Name"] = "Verylosh",
+		["Loot"] = "Serrated Mandible Grips",
+		["Link"] = "|cffa335ee|Hitem:137429::::::::110:66::2:3:1726:1502:3336:::|h[Serrated Mandible Grips]|h|r",
+	}, -- [69]
+	{
+		["Name"] = "Verylosh",
+		["Loot"] = "Nightsfall Shoulderplates",
+		["Link"] = "|cffa335ee|Hitem:139060::::::::110:66::25:3:1824:1517:3528:::|h[Nightsfall Shoulderplates]|h|r",
+	}, -- [70]
+	{
+		["Name"] = "Verylosh",
+		["Loot"] = "Invincible Armor Set",
+		["Link"] = "|cffa335ee|Hitem:147350::::::::110:66::::::|h[Invincible Armor Set]|h|r",
+	}, -- [71]
+	{
+		["Loot"] = "Sea-Reaver's Girdle",
+		["Name"] = "Verylosh",
+		["Link"] = "|cffa335ee|Hitem:141442::::::::110:70::3:4:1808:3466:1477:3336:::|h[Sea-Reaver's Girdle]|h|r",
+	}, -- [72]
+	{
+		["Loot"] = "Rough-Hammered Silver Ring",
+		["Name"] = "Verylosh",
+		["Link"] = "|cffa335ee|Hitem:134191::::::::110:70::25:4:1824:1808:1522:3336:::|h[Rough-Hammered Silver Ring]|h|r",
+	}, -- [73]
+	{
+		["Ding"] = 106,
+		["Name"] = "Greynate",
+		["Date"] = "04/06/17 11:47:04",
+	}, -- [74]
+	{
+		["Loot"] = "Reaping Gloves of Aleifir",
+		["Name"] = "Greynate",
+		["Link"] = "|cffa335ee|Hitem:129325::::::::106:104:512:11:2:1792:1738:106:::|h[Reaping Gloves of Aleifir]|h|r",
+	}, -- [75]
+	{
+		["Name"] = "Verylosh",
+		["Loot"] = "Chain of Thrayn",
+		["Link"] = "|cffff8000|Hitem:137086::::::::110:70:::2:1811:3530:::|h[Chain of Thrayn]|h|r",
+	}, -- [76]
+	{
+		["Loot"] = "Mo'arg Overseer's Cloak",
+		["Name"] = "Verylosh",
+		["Link"] = "|cffa335ee|Hitem:146857::::::::110:70::27:3:3394:1522:3528:::|h[Mo'arg Overseer's Cloak]|h|r",
+	}, -- [77]
+	{
+		["Name"] = "Verylosh",
+		["Loot"] = "Ring of Fel Domination",
+		["Link"] = "|cffa335ee|Hitem:144481::::::::110:70::23:3:1727:1517:3528:::|h[Ring of Fel Domination]|h|r",
+	}, -- [78]
+	{
+		["Name"] = "Verylosh",
+		["Loot"] = "Wonderfully-Adorned Cloth",
+		["Link"] = "|cffa335ee|Hitem:146958::::::::110:70::::::|h[Wonderfully-Adorned Cloth]|h|r",
+	}, -- [79]
+	{
+		["Loot"] = "Horn of Valor",
+		["Name"] = "Verylosh",
+		["Link"] = "|cffa335ee|Hitem:147566::::::::110:70::::::|h[Horn of Valor]|h|r",
+	}, -- [80]
+	{
+		["Loot"] = "Ley-Scarred Pauldrons",
+		["Name"] = "Verylosh",
+		["Link"] = "|cffa335ee|Hitem:134316::::::::110:70::25:3:1824:1517:3528:::|h[Ley-Scarred Pauldrons]|h|r",
+	}, -- [81]
+	{
+		["Loot"] = "Xorothian Greaves",
+		["Name"] = "Verylosh",
+		["Link"] = "|cffa335ee|Hitem:146762::::::::110:70::27:3:3394:1532:3336:::|h[Xorothian Greaves]|h|r",
+	}, -- [82]
+	{
+		["Loot"] = "Storm-Tempered Greaves of the Harmonious",
+		["Name"] = "Verylosh",
+		["Link"] = "|cffa335ee|Hitem:147236::::::::110:70:::5:1715:40:3574:1642:3528:::|h[Storm-Tempered Greaves of the Harmonious]|h|r",
+	}, -- [83]
+	{
+		["Loot"] = "Fury of the Scorned",
+		["Name"] = "Verylosh",
+		["Link"] = "|cffa335ee|Hitem:144460::::::::110:65::2:3:1726:1502:3336:::|h[Fury of the Scorned]|h|r",
+	}, -- [84]
+	{
+		["Ding"] = 106,
+		["Name"] = "Bigthingz",
+		["Date"] = "04/11/17 00:26:22",
+	}, -- [85]
+	{
+		["Loot"] = "Moonshatter Helmet",
+		["Name"] = "Verylosh",
+		["Link"] = "|cffa335ee|Hitem:146852::::::::110:66::26:4:1825:43:1517:3528:::|h[Moonshatter Helmet]|h|r",
+	}, -- [86]
+	{
+		["Loot"] = "Blessed Sculpture of Tyr",
+		["Name"] = "Verylosh",
+		["Link"] = "|cffa335ee|Hitem:147469::::::::110:66:8388608:11::29:::|h[Blessed Sculpture of Tyr]|h|r",
+	}, -- [87]
+	{
+		["Loot"] = "Ancient Shard of Binding",
+		["Name"] = "Verylosh",
+		["Link"] = "|cffa335ee|Hitem:146653::::::::110:66::::::|h[Ancient Shard of Binding]|h|r",
+	}, -- [88]
+	{
+		["Name"] = "Verylosh",
+		["Loot"] = "Cache of Nightborne Treasures",
+		["Link"] = "|cffa335ee|Hitem:140150::::::::110:66::11::::|h[Cache of Nightborne Treasures]|h|r",
+	}, -- [89]
+	{
+		["Name"] = "Verylosh",
+		["Loot"] = "Soul of Flame",
+		["Link"] = "|cffa335ee|Hitem:140834::::::::110:66::3:3:3514:1472:3528:::|h[Soul of Flame]|h|r",
+	}, -- [90]
+	{
+		["Name"] = "Verylosh",
+		["Loot"] = "Xorothian Pauldrons",
+		["Link"] = "|cffa335ee|Hitem:146763::::::::110:70::27:3:3394:1527:3336:::|h[Xorothian Pauldrons]|h|r",
+	}, -- [91]
+	{
+		["Name"] = "Verylosh",
+		["Loot"] = "Storm-Tempered Legplates of the Feverflare",
+		["Link"] = "|cffa335ee|Hitem:147248::::::::110:70:::5:1701:42:3574:1642:3528:::|h[Storm-Tempered Legplates of the Feverflare]|h|r",
+	}, -- [92]
+	{
+		["Loot"] = "Skoldiir Shoulderguards",
+		["Name"] = "Verylosh",
+		["Link"] = "|cffa335ee|Hitem:134184::::::::110:70::25:3:1824:1517:3528:::|h[Skoldiir Shoulderguards]|h|r",
+	}, -- [93]
+	{
+		["Loot"] = "Crystallized Firestone",
+		["Name"] = "Verylosh",
+		["Link"] = "|cffa335ee|Hitem:71617::::::::110:70::::::|h[Crystallized Firestone]|h|r",
+	}, -- [94]
+	{
+		["Loot"] = "Robes of Smoldering Devastation",
+		["Name"] = "Verylosh",
+		["Link"] = "|cffa335ee|Hitem:71407::::::::110:70::::::|h[Robes of Smoldering Devastation]|h|r",
+	}, -- [95]
+	{
+		["Loot"] = "Mandible of Beth'tilac",
+		["Name"] = "Verylosh",
+		["Link"] = "|cffa335ee|Hitem:71406::::::::110:70::::::|h[Mandible of Beth'tilac]|h|r",
+	}, -- [96]
+	{
+		["Loot"] = "Carapace of Imbibed Flame",
+		["Name"] = "Verylosh",
+		["Link"] = "|cffa335ee|Hitem:71405::::::::110:70::::::|h[Carapace of Imbibed Flame]|h|r",
+	}, -- [97]
+	{
+		["Loot"] = "Arachnaflame Treads",
+		["Name"] = "Verylosh",
+		["Link"] = "|cffa335ee|Hitem:71404::::::::110:70::::::|h[Arachnaflame Treads]|h|r",
+	}, -- [98]
+	{
+		["Loot"] = "Thoracic Flame Kilt",
+		["Name"] = "Verylosh",
+		["Link"] = "|cffa335ee|Hitem:71412::::::::110:70::::::|h[Thoracic Flame Kilt]|h|r",
+	}, -- [99]
+	{
+		["Loot"] = "Theck's Emberseal",
+		["Name"] = "Verylosh",
+		["Link"] = "|cffa335ee|Hitem:71367::::::::110:70::::::|h[Theck's Emberseal]|h|r",
+	}, -- [100]
+	{
+		["Loot"] = "Lava Line Wristbands",
+		["Name"] = "Verylosh",
+		["Link"] = "|cffa335ee|Hitem:71425::::::::110:70::::::|h[Lava Line Wristbands]|h|r",
+	}, -- [101]
+	{
+		["Loot"] = "Hood of Rampant Disdain",
+		["Name"] = "Verylosh",
+		["Link"] = "|cffa335ee|Hitem:71416::::::::110:70::::::|h[Hood of Rampant Disdain]|h|r",
+	}, -- [102]
+	{
+		["Loot"] = "Arbalest of Erupting Fury",
+		["Name"] = "Verylosh",
+		["Link"] = "|cffa335ee|Hitem:71414::::::::110:70::::::|h[Arbalest of Erupting Fury]|h|r",
+	}, -- [103]
+	{
+		["Loot"] = "Arbalest of Erupting Fury",
+		["Name"] = "Verylosh",
+		["Link"] = "|cffa335ee|Hitem:71414::::::::110:70::::::|h[Arbalest of Erupting Fury]|h|r",
+	}, -- [104]
+	{
+		["Loot"] = "Arbalest of Erupting Fury",
+		["Name"] = "Verylosh",
+		["Link"] = "|cffa335ee|Hitem:71414::::::::110:70::::::|h[Arbalest of Erupting Fury]|h|r",
+	}, -- [105]
+	{
+		["Loot"] = "Incendic Chestguard",
+		["Name"] = "Verylosh",
+		["Link"] = "|cffa335ee|Hitem:71424::::::::110:70::::::|h[Incendic Chestguard]|h|r",
+	}, -- [106]
+	{
+		["Loot"] = "Spaulders of Recurring Flame",
+		["Name"] = "Verylosh",
+		["Link"] = "|cffa335ee|Hitem:71432::::::::110:70::::::|h[Spaulders of Recurring Flame]|h|r",
+	}, -- [107]
+	{
+		["Loot"] = "Eye of Blazing Power",
+		["Name"] = "Verylosh",
+		["Link"] = "|cffa335ee|Hitem:69149::::::::110:70::::::|h[Eye of Blazing Power]|h|r",
+	}, -- [108]
+	{
+		["Loot"] = "Zoid's Firelit Greatsword",
+		["Name"] = "Verylosh",
+		["Link"] = "|cffa335ee|Hitem:71781::::::::110:70::::::|h[Zoid's Firelit Greatsword]|h|r",
+	}, -- [109]
+	{
+		["Loot"] = "Moltenfeather Leggings",
+		["Name"] = "Verylosh",
+		["Link"] = "|cffa335ee|Hitem:71429::::::::110:70::::::|h[Moltenfeather Leggings]|h|r",
+	}, -- [110]
+	{
+		["Loot"] = "Greathelm of the Voracious Maw",
+		["Name"] = "Verylosh",
+		["Link"] = "|cffa335ee|Hitem:71430::::::::110:70::::::|h[Greathelm of the Voracious Maw]|h|r",
+	}, -- [111]
+	{
+		["Loot"] = "Alysrazor's Band",
+		["Name"] = "Verylosh",
+		["Link"] = "|cffa335ee|Hitem:71433::::::::110:70::::::|h[Alysrazor's Band]|h|r",
+	}, -- [112]
+	{
+		["Loot"] = "Chest of the Fiery Vanquisher",
+		["Name"] = "Verylosh",
+		["Link"] = "|cffa335ee|Hitem:71672::::::::110:70::::::|h[Chest of the Fiery Vanquisher]|h|r",
+	}, -- [113]
+	{
+		["Loot"] = "Chest of the Fiery Vanquisher",
+		["Name"] = "Verylosh",
+		["Link"] = "|cffa335ee|Hitem:71672::::::::110:70::::::|h[Chest of the Fiery Vanquisher]|h|r",
+	}, -- [114]
+	{
+		["Loot"] = "Chest of the Fiery Vanquisher",
+		["Name"] = "Verylosh",
+		["Link"] = "|cffa335ee|Hitem:71672::::::::110:70::::::|h[Chest of the Fiery Vanquisher]|h|r",
+	}, -- [115]
+	{
+		["Loot"] = "Crystallized Firestone",
+		["Name"] = "Verylosh",
+		["Link"] = "|cffa335ee|Hitem:71617::::::::110:70::::::|h[Crystallized Firestone]|h|r",
+	}, -- [116]
+	{
+		["Loot"] = "Molten Scream",
+		["Name"] = "Verylosh",
+		["Link"] = "|cffa335ee|Hitem:71462::::::::110:70::::::|h[Molten Scream]|h|r",
+	}, -- [117]
+	{
+		["Loot"] = "Gauntlets of the Fiery Protector",
+		["Name"] = "Verylosh",
+		["Link"] = "|cffa335ee|Hitem:71683::::::::110:70::::::|h[Gauntlets of the Fiery Protector]|h|r",
+	}, -- [118]
+	{
+		["Loot"] = "Decimation Treads",
+		["Name"] = "Verylosh",
+		["Link"] = "|cffa335ee|Hitem:71457::::::::110:70::::::|h[Decimation Treads]|h|r",
+	}, -- [119]
+	{
+		["Loot"] = "Gauntlets of the Fiery Vanquisher",
+		["Name"] = "Verylosh",
+		["Link"] = "|cffa335ee|Hitem:71669::::::::110:70::::::|h[Gauntlets of the Fiery Vanquisher]|h|r",
+	}, -- [120]
+	{
+		["Loot"] = "Gauntlets of the Fiery Vanquisher",
+		["Name"] = "Verylosh",
+		["Link"] = "|cffa335ee|Hitem:71669::::::::110:70::::::|h[Gauntlets of the Fiery Vanquisher]|h|r",
+	}, -- [121]
+	{
+		["Loot"] = "Breastplate of the Incendiary Soul",
+		["Name"] = "Verylosh",
+		["Link"] = "|cffa335ee|Hitem:71455::::::::110:70::::::|h[Breastplate of the Incendiary Soul]|h|r",
+	}, -- [122]
+	{
+		["Loot"] = "Breastplate of the Incendiary Soul",
+		["Name"] = "Verylosh",
+		["Link"] = "|cffa335ee|Hitem:71455::::::::110:70::::::|h[Breastplate of the Incendiary Soul]|h|r",
+	}, -- [123]
+	{
+		["Loot"] = "Shoulderpads of the Forgotten Gate",
+		["Name"] = "Verylosh",
+		["Link"] = "|cffa335ee|Hitem:71456::::::::110:70::::::|h[Shoulderpads of the Forgotten Gate]|h|r",
+	}, -- [124]
+	{
+		["Loot"] = "Zoid's Firelit Greatsword",
+		["Name"] = "Verylosh",
+		["Link"] = "|cffa335ee|Hitem:71781::::::::110:70::::::|h[Zoid's Firelit Greatsword]|h|r",
+	}, -- [125]
+	{
+		["Loot"] = "Leggings of the Fiery Conqueror",
+		["Name"] = "Verylosh",
+		["Link"] = "|cffa335ee|Hitem:71678::::::::110:70::::::|h[Leggings of the Fiery Conqueror]|h|r",
+	}, -- [126]
+	{
+		["Loot"] = "Goblet of Anger",
+		["Name"] = "Verylosh",
+		["Link"] = "|cffa335ee|Hitem:71448::::::::110:70::::::|h[Goblet of Anger]|h|r",
+	}, -- [127]
+	{
+		["Loot"] = "Necklace of Fetishes",
+		["Name"] = "Verylosh",
+		["Link"] = "|cffa335ee|Hitem:71446::::::::110:70::::::|h[Necklace of Fetishes]|h|r",
+	}, -- [128]
+	{
+		["Loot"] = "Leggings of the Fiery Vanquisher",
+		["Name"] = "Verylosh",
+		["Link"] = "|cffa335ee|Hitem:71671::::::::110:70::::::|h[Leggings of the Fiery Vanquisher]|h|r",
+	}, -- [129]
+	{
+		["Loot"] = "Crystal Prison Band",
+		["Name"] = "Verylosh",
+		["Link"] = "|cffa335ee|Hitem:71449::::::::110:70::::::|h[Crystal Prison Band]|h|r",
+	}, -- [130]
+	{
+		["Loot"] = "Treads of Implicit Obedience",
+		["Name"] = "Verylosh",
+		["Link"] = "|cffa335ee|Hitem:71451::::::::110:70::::::|h[Treads of Implicit Obedience]|h|r",
+	}, -- [131]
+	{
+		["Loot"] = "Leggings of the Fiery Protector",
+		["Name"] = "Verylosh",
+		["Link"] = "|cffa335ee|Hitem:71685::::::::110:70::::::|h[Leggings of the Fiery Protector]|h|r",
+	}, -- [132]
+	{
+		["Loot"] = "Gloves of Dissolving Smoke",
+		["Name"] = "Verylosh",
+		["Link"] = "|cffa335ee|Hitem:71440::::::::110:70::::::|h[Gloves of Dissolving Smoke]|h|r",
+	}, -- [133]
+	{
+		["Loot"] = "Crystallized Firestone",
+		["Name"] = "Verylosh",
+		["Link"] = "|cffa335ee|Hitem:71617::::::::110:70::::::|h[Crystallized Firestone]|h|r",
+	}, -- [134]
+	{
+		["Loot"] = "Stinger of the Flaming Scorpion",
+		["Name"] = "Verylosh",
+		["Link"] = "|cffa335ee|Hitem:71473::::::::110:70::::::|h[Stinger of the Flaming Scorpion]|h|r",
+	}, -- [135]
+	{
+		["Loot"] = "Fandral's Flamescythe",
+		["Name"] = "Verylosh",
+		["Link"] = "|cffa335ee|Hitem:71466::::::::110:70::::::|h[Fandral's Flamescythe]|h|r",
+	}, -- [136]
+	{
+		["Loot"] = "Jaws of Defeat",
+		["Name"] = "Verylosh",
+		["Link"] = "|cffa335ee|Hitem:69111::::::::110:70::::::|h[Jaws of Defeat]|h|r",
+	}, -- [137]
+	{
+		["Loot"] = "Sandals of Leaping Coals",
+		["Name"] = "Verylosh",
+		["Link"] = "|cffa335ee|Hitem:71467::::::::110:70::::::|h[Sandals of Leaping Coals]|h|r",
+	}, -- [138]
+	{
+		["Loot"] = "Shoulders of the Fiery Protector",
+		["Name"] = "Verylosh",
+		["Link"] = "|cffa335ee|Hitem:71687::::::::110:70::::::|h[Shoulders of the Fiery Protector]|h|r",
+	}, -- [139]
+	{
+		["Loot"] = "Shoulders of the Fiery Vanquisher",
+		["Name"] = "Verylosh",
+		["Link"] = "|cffa335ee|Hitem:71673::::::::110:70::::::|h[Shoulders of the Fiery Vanquisher]|h|r",
+	}, -- [140]
+	{
+		["Loot"] = "Shoulders of the Fiery Vanquisher",
+		["Name"] = "Verylosh",
+		["Link"] = "|cffa335ee|Hitem:71673::::::::110:70::::::|h[Shoulders of the Fiery Vanquisher]|h|r",
+	}, -- [141]
+	{
+		["Loot"] = "Treads of the Penitent Man",
+		["Name"] = "Verylosh",
+		["Link"] = "|cffa335ee|Hitem:71475::::::::110:70::::::|h[Treads of the Penitent Man]|h|r",
+	}, -- [142]
+	{
+		["Loot"] = "Breastplate of Shifting Visions",
+		["Name"] = "Verylosh",
+		["Link"] = "|cffa335ee|Hitem:71469::::::::110:70::::::|h[Breastplate of Shifting Visions]|h|r",
+	}, -- [143]
+	{
+		["Loot"] = "Crown of the Fiery Conqueror",
+		["Name"] = "Verylosh",
+		["Link"] = "|cffa335ee|Hitem:71677::::::::110:70::::::|h[Crown of the Fiery Conqueror]|h|r",
+	}, -- [144]
+	{
+		["Loot"] = "Crown of the Fiery Conqueror",
+		["Name"] = "Verylosh",
+		["Link"] = "|cffa335ee|Hitem:71677::::::::110:70::::::|h[Crown of the Fiery Conqueror]|h|r",
+	}, -- [145]
+	{
+		["Loot"] = "Sulfuras, the Extinguished Hand",
+		["Name"] = "Verylosh",
+		["Link"] = "|cffa335ee|Hitem:70723::::::::110:70::::::|h[Sulfuras, the Extinguished Hand]|h|r",
+	}, -- [146]
+	{
+		["Loot"] = "Ko'gun, Hammer of the Firelord",
+		["Name"] = "Verylosh",
+		["Link"] = "|cffa335ee|Hitem:71615::::::::110:70::::::|h[Ko'gun, Hammer of the Firelord]|h|r",
+	}, -- [147]
+	{
+		["Loot"] = "Crown of the Fiery Vanquisher",
+		["Name"] = "Verylosh",
+		["Link"] = "|cffa335ee|Hitem:71670::::::::110:70::::::|h[Crown of the Fiery Vanquisher]|h|r",
+	}, -- [148]
+	{
+		["Loot"] = "Sho'ravon, Greatstaff of Annihilation",
+		["Name"] = "Verylosh",
+		["Link"] = "|cffa335ee|Hitem:71797::::::::110:70::::::|h[Sho'ravon, Greatstaff of Annihilation]|h|r",
+	}, -- [149]
+	{
+		["Loot"] = "Choker of the Vanquished Lord",
+		["Name"] = "Verylosh",
+		["Link"] = "|cffa335ee|Hitem:71610::::::::110:70::::::|h[Choker of the Vanquished Lord]|h|r",
+	}, -- [150]
+	{
+		["Loot"] = "Arathar, the Eye of Flame",
+		["Name"] = "Verylosh",
+		["Link"] = "|cffa335ee|Hitem:71611::::::::110:70::::::|h[Arathar, the Eye of Flame]|h|r",
+	}, -- [151]
+	{
+		["Loot"] = "Arathar, the Eye of Flame",
+		["Name"] = "Verylosh",
+		["Link"] = "|cffa335ee|Hitem:71611::::::::110:70::::::|h[Arathar, the Eye of Flame]|h|r",
+	}, -- [152]
+	{
+		["Name"] = "Verylosh",
+		["Loot"] = "Moonshatter Breastplate",
+		["Link"] = "|cffa335ee|Hitem:146849::::::::110:70::26:3:1825:1517:3528:::|h[Moonshatter Breastplate]|h|r",
+	}, -- [153]
+	{
+		["Name"] = "Verylosh",
+		["Loot"] = "Blessed Sculpture of Tyr",
+		["Link"] = "|cffa335ee|Hitem:147469::::::::110:70:8388608:26::29:::|h[Blessed Sculpture of Tyr]|h|r",
+	}, -- [154]
+	{
+		["Name"] = "Verylosh",
+		["Loot"] = "Avenging Band of the Decimator",
+		["Link"] = "|cffa335ee|Hitem:147257::::::::110:70:::4:1784:3574:1642:3528:::|h[Avenging Band of the Decimator]|h|r",
+	}, -- [155]
+	{
+		["Name"] = "Verylosh",
+		["Loot"] = "Ley-Scarred Helm",
+		["Link"] = "|cffa335ee|Hitem:134314::::::::110:70::25:3:1824:1527:3336:::|h[Ley-Scarred Helm]|h|r",
+	}, -- [156]
+	{
+		["Name"] = "Verylosh",
+		["Loot"] = "Glory of the Melee",
+		["Link"] = "|cffa335ee|Hitem:141889::::::::110:70:8388608:24::29:::|h[Glory of the Melee]|h|r",
+	}, -- [157]
+	{
+		["Name"] = "Verylosh",
+		["Loot"] = "Dreamwalker's Pendant",
+		["Link"] = "|cffa335ee|Hitem:139063::::::::110:70::25:3:1824:1517:3528:::|h[Dreamwalker's Pendant]|h|r",
+	}, -- [158]
+	{
+		["Name"] = "Verylosh",
+		["Loot"] = "Silver Hand Ornament",
+		["Link"] = "|cffa335ee|Hitem:139870::::::::110:70::::::|h[Silver Hand Ornament]|h|r",
+	}, -- [159]
+	{
+		["Ding"] = 107,
+		["Name"] = "Bigthingz",
+		["Date"] = "04/18/17 14:40:10",
+	}, -- [160]
+	{
+		["Loot"] = "Reaver's Rattling Girdle",
+		["Name"] = "Verylosh",
+		["Link"] = "|cffa335ee|Hitem:147753::::::::110:70::3:4:3572:40:1482:3528:::|h[Reaver's Rattling Girdle]|h|r",
+	}, -- [161]
+	{
+		["Ding"] = 104,
+		["Name"] = "Dellera",
+		["Date"] = "04/19/17 09:30:06",
+	}, -- [162]
+	{
+		["Loot"] = "Band of Dark Millennia",
+		["Name"] = "Verylosh",
+		["Link"] = "|cffa335ee|Hitem:147766::::::::110:70::3:3:3572:1482:3528:::|h[Band of Dark Millennia]|h|r",
+	}, -- [163]
+	["Nr"] = 163,
+}
+CL_Temp_Import = nil
+CL_AddonUpdate = {
+	["Verylosh-Sylvanas"] = {
+		[1080] = 1,
+		[1018] = 1,
+		[1017] = 1,
+		[1015] = 1,
+	},
+	["Bigthingz-Sylvanas"] = {
+		[1080] = 1,
+		[1018] = 1,
+		[1017] = 1,
+		[1015] = 1,
+	},
+	["Dellera-Sylvanas"] = {
+		[1080] = 1,
+		[1018] = 1,
+		[1015] = 1,
+	},
+	["Thirty-Sylvanas"] = {
+		[1015] = 1,
+		[1017] = 1,
+		[1080] = 1,
+		[1018] = 1,
+		[1022] = 1,
+	},
+	["Freesugar-Stormscale"] = {
+		[1018] = 1,
+		[1017] = 1,
+		[1015] = 1,
+	},
+	["Quickchill-Sylvanas"] = {
+		[1015] = 1,
+	},
+	["Zooming-Sylvanas"] = {
+		[1080] = 1,
+		[1018] = 1,
+		[1017] = 1,
+		[1015] = 1,
+	},
+	["Freesugar-Sylvanas"] = {
+		[1080] = 1,
+		[1015] = 1,
+		[1018] = 1,
+	},
+}

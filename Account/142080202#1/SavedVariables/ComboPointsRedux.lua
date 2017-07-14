@@ -1,0 +1,185 @@
+
+CPRDB2 = {
+	["namespaces"] = {
+		["LibDualSpec-1.0"] = {
+		},
+	},
+	["profileKeys"] = {
+		["Preách - Zenedar"] = "Default",
+		["Hordepali - Lightbringer"] = "Default",
+		["Fergfr - Sylvanas"] = "Default",
+		["Preacho - Tarren Mill"] = "Default",
+		["Chuggernuts - Tarren Mill"] = "Default",
+		["Evilpreach - Sylvanas"] = "Default",
+		["Preech - Tarren Mill"] = "Default",
+		["Swagimus - Tarren Mill"] = "Default",
+		["Sulivan - Tarren Mill"] = "Default",
+		["Preach - Dentarg"] = "Default",
+		["Préach - Tarren Mill"] = "Default",
+		["Xpreach - Tarren Mill"] = "Default",
+		["Meticulous - Tarren Mill"] = "Default",
+		["Toutsweet - Tarren Mill"] = "Default",
+		["Preacherino - Tarren Mill"] = "Default",
+		["Testsubjec - Dentarg"] = "Default",
+		["Preách - Tarren Mill"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+			["modules"] = {
+				["Arcane Blast"] = {
+					["graphicsX"] = 562.844458073378,
+					["textX"] = 684.088905453682,
+					["textY"] = 390.400052856076,
+					["graphicsY"] = 306.133340746164,
+				},
+				["Deadly Poison"] = {
+					["enabled"] = false,
+					["graphicsX"] = 607.644502560961,
+					["textX"] = 607.288946996796,
+					["textY"] = 477.155523706806,
+					["graphicsY"] = 448.355523009432,
+				},
+				["Wild Mushroom"] = {
+					["enabled"] = false,
+					["graphicsX"] = 629.688904136419,
+					["textX"] = 756.622240543366,
+					["textY"] = 457.955610047447,
+					["graphicsY"] = 373.688854534757,
+				},
+				["Fulmination"] = {
+					["graphicsX"] = 547.200013250113,
+					["textX"] = 676.26668304205,
+					["textY"] = 480.711122751236,
+					["graphicsY"] = 425.600010305643,
+				},
+				["Lunar Shower"] = {
+					["enabled"] = false,
+					["graphicsX"] = 573.51116840111,
+					["textX"] = 762.311216375565,
+					["textY"] = 494.22223418951,
+					["graphicsY"] = 309.688896387816,
+				},
+				["Fingers of Frost"] = {
+					["graphicsX"] = 755.555487045313,
+					["textX"] = 646.40001565218,
+					["textY"] = 439.466677308083,
+					["graphicsY"] = 454.044455438852,
+				},
+				["Meat Cleaver"] = {
+					["graphicsX"] = 735.644549063181,
+					["textX"] = 582.39997069968,
+					["textY"] = 332.800008058548,
+					["graphicsY"] = 326.755563467741,
+				},
+				["Maelstrom Weapon"] = {
+					["graphicsX"] = 614.044459313154,
+					["textX"] = 725.333350896835,
+					["textY"] = 426.666676998138,
+					["graphicsY"] = 397.866632897985,
+				},
+				["Lacerate"] = {
+					["enabled"] = false,
+					["graphicsX"] = 708.622239381075,
+					["textX"] = 713.244505118,
+					["textY"] = 440.177788436413,
+					["graphicsY"] = 472.533344775438,
+				},
+				["Bone Shield"] = {
+					["graphicsX"] = 700.800016969442,
+					["textX"] = 732.444462180138,
+					["textY"] = 481.422233879566,
+					["graphicsY"] = 463.999967832697,
+				},
+				["Ready Set Aim"] = {
+					["graphicsX"] = 668.088905066252,
+					["textX"] = 670.577794015408,
+					["textY"] = 352.000008523464,
+					["graphicsY"] = 460.444455593824,
+				},
+				["Burning Embers"] = {
+					["graphicsX"] = 663.111170570719,
+					["textX"] = 590.222236514092,
+					["textY"] = 480.711122751236,
+					["graphicsY"] = 351.64443125791,
+				},
+				["Anticipation"] = {
+					["enabled"] = false,
+					["graphicsX"] = 647.466725747454,
+					["textX"] = 600.177792310715,
+					["textY"] = 457.955610047447,
+					["graphicsY"] = 395.022188384664,
+				},
+				["Bandits Guile"] = {
+					["enabled"] = false,
+					["graphicsX"] = 643.199972171915,
+					["graphicsY"] = 371.555564552546,
+				},
+				["Chi"] = {
+					["graphicsX"] = 594.133304317129,
+					["hideOOC"] = true,
+					["fontsize"] = 18,
+					["textX"] = 664.889165405439,
+					["textY"] = 394.666415806605,
+					["graphicsY"] = 370.844366618658,
+					["disableGraphics"] = true,
+				},
+				["Shadow Infusion"] = {
+					["graphicsX"] = 570.666767290568,
+					["textX"] = 663.466639329327,
+					["textY"] = 410.311077643764,
+					["graphicsY"] = 451.199967522753,
+				},
+				["Holy Power"] = {
+					["graphicsX"] = 632.533392052519,
+					["textX"] = 701.866683661938,
+					["textY"] = 438.755566179752,
+					["graphicsY"] = 378.666675835848,
+				},
+				["Soul Shards"] = {
+					["graphicsX"] = 560.000013560057,
+					["textX"] = 669.866682887077,
+					["textY"] = 506.311123371124,
+					["graphicsY"] = 383.644410331381,
+				},
+				["Combo Points"] = {
+					["enabled"] = false,
+					["graphicsX"] = 631.111169795859,
+					["fontsize"] = 22,
+					["textX"] = 667.022759207102,
+					["textY"] = 383.288941572773,
+					["graphicsY"] = 369.42205755644,
+					["textColor"] = {
+						nil, -- [1]
+						0.823529411764706, -- [2]
+						0.0627450980392157, -- [3]
+					},
+				},
+				["Frenzy Effect"] = {
+					["graphicsX"] = 619.733391742575,
+					["textX"] = 576.000013947487,
+					["textY"] = 473.600011467934,
+					["graphicsY"] = 302.577806805903,
+				},
+				["Taste for Blood"] = {
+					["graphicsX"] = 692.977751155031,
+					["textX"] = 581.68885957135,
+					["textY"] = 465.066677927971,
+					["graphicsY"] = 486.755567342043,
+				},
+				["Tidal Waves"] = {
+					["graphicsX"] = 686.577751000059,
+					["textX"] = 603.022236824036,
+					["textY"] = 404.622232019901,
+					["graphicsY"] = 481.777746040953,
+				},
+				["Seal of Truth"] = {
+					["graphicsX"] = 584.888859648836,
+					["textX"] = 768.711216530537,
+					["textY"] = 472.177789211273,
+					["graphicsY"] = 402.133343070746,
+				},
+			},
+			["locked"] = true,
+		},
+	},
+}

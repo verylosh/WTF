@@ -1,0 +1,47 @@
+
+CPRDB2 = {
+	["namespaces"] = {
+		["LibDualSpec-1.0"] = {
+		},
+	},
+	["profileKeys"] = {
+		["Meticulous - Tarren Mill"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+			["modules"] = {
+				["Bone Shield"] = {
+				},
+				["Soul Shards"] = {
+				},
+				["Deadly Poison"] = {
+					["textY"] = 477.155523706806,
+					["textX"] = 607.2889469967959,
+					["graphicsY"] = 448.3555230094316,
+					["graphicsX"] = 607.644502560961,
+					["enabled"] = false,
+				},
+				["Combo Points"] = {
+					["textY"] = 285.8666735887528,
+					["textX"] = 672.0004068970775,
+					["graphicsY"] = 369.4220575564395,
+					["disableText"] = true,
+					["graphicsX"] = 631.1111697958586,
+				},
+				["Anticipation"] = {
+					["textY"] = 457.9556100474474,
+					["textX"] = 600.1777923107147,
+					["graphicsY"] = 395.0221883846643,
+					["graphicsX"] = 647.4667257474539,
+					["enabled"] = false,
+				},
+				["Bandits Guile"] = {
+					["graphicsY"] = 371.5555645525456,
+					["enabled"] = false,
+					["graphicsX"] = 643.1999721719149,
+				},
+			},
+			["locked"] = true,
+		},
+	},
+}

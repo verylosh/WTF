@@ -1,0 +1,15 @@
+
+AyeDB = {
+	["profileKeys"] = {
+		["Quickchill - Sylvanas"] = "Default",
+		["Dellera - Sylvanas"] = "Default",
+		["Zooming - Sylvanas"] = "Default",
+		["Thirty - Sylvanas"] = "Default",
+		["Crzy - Sylvanas"] = "Default",
+		["Verylosh - Sylvanas"] = "Default",
+		["Bigthingz - Sylvanas"] = "Default",
+		["Freesugar - Sylvanas"] = "Default",
+		["Quickchill - Tarren Mill"] = "Default",
+		["Freesugar - Stormscale"] = "Default",
+	},
+}

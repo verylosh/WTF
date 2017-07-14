@@ -1,0 +1,17 @@
+
+Postal3DB = {
+	["global"] = {
+		["BlackBook"] = {
+			["alts"] = {
+				"Swagimus|Tarren Mill|Horde|1|WARRIOR", -- [1]
+			},
+		},
+	},
+	["profileKeys"] = {
+		["Swagimus - Tarren Mill"] = "Swagimus - Tarren Mill",
+	},
+	["profiles"] = {
+		["Swagimus - Tarren Mill"] = {
+		},
+	},
+}

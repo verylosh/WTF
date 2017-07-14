@@ -1,0 +1,66 @@
+VER 3 010000000000000C "." "INV_MISC_QUESTIONMARK"
+#showtooltip Flash of Light
+/cast [target=mouseover,help,nodead][]Flash of Light
+END
+VER 3 010000000000000B "." "INV_MISC_QUESTIONMARK"
+#showtooltip Holy Light
+/cast [target=mouseover,help,nodead][]Holy Light
+END
+VER 3 010000000000000A "." "INV_MISC_QUESTIONMARK"
+#showtooltip Holy Shock
+/cast [target=mouseover,help,nodead][]Holy Shock
+END
+VER 3 010000000000000D "." "INV_MISC_QUESTIONMARK"
+#showtooltip Light of the Martyr
+/cast [target=mouseover,help,nodead][] Light of the Martyr
+END
+VER 3 010000000000000E "." "INV_MISC_QUESTIONMARK"
+#showtooltip 
+/cast [talent:1/1] Bestow Faith; [talent:1/2] Light's Hammer
+END
+VER 3 0100000000000010 "." "INV_MISC_QUESTIONMARK"
+#showtooltip 
+/cast Templar's Verdict
+/use 13
+END
+VER 3 0100000000000007 "." "INV_MISC_QUESTIONMARK"
+#showtooltip 
+/cast [talent:5/1]Justicar's Vengeance; [talent:5/2] Eye For an Eye; [talent:5/3] Word of Glory
+END
+VER 3 0100000000000008 "." "INV_MISC_QUESTIONMARK"
+#showtooltip 
+/cast [talent:1/2] Execution Sentence; [talent:1/3] Consecration
+END
+VER 3 0100000000000011 "." "INV_MISC_QUESTIONMARK"
+#showtooltip 
+/cast Avenger's Shield
+/use 14
+END
+VER 3 0100000000000003 "AC" "INV_MISC_QUESTIONMARK"
+****Get rid of your {Alchemical Catalyst} before Legion - Buying All [Alchemical Catalyst] 4.00 Gold a piece || 800 Gold per 200 - C.O.D. me or Trade me****
+END
+VER 3 0100000000000004 "AC2" "INV_MISC_QUESTIONMARK"
+WTB [Alchemical Catalyst] 4.00 Gold a piece || 800 Gold per 200 - C.O.D. me or Trade me****
+END
+VER 3 0100000000000009 "asd" "INV_MISC_QUESTIONMARK"
+/tar Bloodhunter zulk
+END
+VER 3 010000000000000F "GEMs" "134077"
+/click gch_button
+END
+VER 3 0100000000000001 "Holy" "INV_MISC_QUESTIONMARK"
+Intellect > Crit > Spirit > Multistrike > Mastery > Versatility > Haste
+END
+VER 3 0100000000000002 "PROT" "INV_MISC_QUESTIONMARK"
+/showtooltip Repentance
+/cast Avenging Wrath
+/cast Repentance
+END
+VER 3 0100000000000012 "rep" "INV_MISC_QUESTIONMARK"
+#showtooltip Repentance
+/cast [@focus] Repentance
+END
+VER 3 0100000000000006 "tar hand" "INV_MISC_QUESTIONMARK"
+#showtooltip 
+/use [@mouseover,help,nodead][help,nodead][@player] Hand of Sacrifice
+END

@@ -1,0 +1,33 @@
+
+HandyNotes_AzerothsTopTunesDB = {
+	["profileKeys"] = {
+		["Psyborn - Stormscale"] = "Default",
+		["Dellera - Sylvanas"] = "Default",
+		["Dellera - Stormscale"] = "Default",
+		["Three - Sylvanas"] = "Default",
+		["Theshock - Sylvanas"] = "Default",
+		["Stonesong - Sylvanas"] = "Default",
+		["Bashlosh - Stormscale"] = "Default",
+		["Verylosh - Sylvanas"] = "Default",
+		["Twentyone - Sylvanas"] = "Default",
+		["Bigthingz - Sylvanas"] = "Default",
+		["Freesugar - Sylvanas"] = "Default",
+		["Zooming - Sylvanas"] = "Default",
+		["Quickchill - Sylvanas"] = "Default",
+		["Thirty - Sylvanas"] = "Default",
+		["Luffyd - Tarren Mill"] = "Default",
+		["Freesugar - Argent Dawn"] = "Default",
+		["Damnsouls - Stormscale"] = "Default",
+		["Psyborn - Sylvanas"] = "Default",
+		["Crzy - Sylvanas"] = "Default",
+		["Blahblahh - Sylvanas"] = "Default",
+		["Snowrains - Stormscale"] = "Default",
+		["Damnsouls - Sylvanas"] = "Default",
+		["Quickchill - Tarren Mill"] = "Default",
+		["Freesugar - Stormscale"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+		},
+	},
+}

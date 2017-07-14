@@ -1,0 +1,95 @@
+VER 3 010000000000000E "," "INV_MISC_QUESTIONMARK"
+#showtooltip Dire Beast
+/petattack
+/cast Dire Beast
+END
+VER 3 010000000000000F "," "INV_MISC_QUESTIONMARK"
+#showtooltip Cobra Shot
+/petattack
+/cast Cobra Shot
+/cast Wake Up
+END
+VER 3 0100000000000011 "." "INV_MISC_QUESTIONMARK"
+#showtooltip Netherwinds
+/cast Ancient Hysteria(Exotic Ability)
+/cast Netherwinds
+/cast Gift of Chi-Ji(Special Aebility)
+END
+VER 3 0100000000000008 "." "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast Ancient Hysteria(Exotic Ability)
+END
+VER 3 0100000000000009 "." "INV_MISC_QUESTIONMARK"
+#showtooltip 
+/cast [talent:6/1] A Murder of Crows; [talent:6/2] Barrage;  [talent:6/3] Volley
+/petattack
+END
+VER 3 010000000000000A "." "INV_MISC_QUESTIONMARK"
+#showtooltip 
+/cast [talent:5/1] Binding Shot; [talent:5/2] Wyvern Sting;  [talent:5/3] Camouflage
+END
+VER 3 010000000000000B "." "INV_MISC_QUESTIONMARK"
+#showtooltip Kill Command
+/cast Kill Comman
+/petattack
+END
+VER 3 0100000000000003 "." "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cancelaura Deterrence
+/cancelaura Hand of Protection
+/stopcasting
+/stopcasting
+/cast Kill Shot
+END
+VER 3 0100000000000010 "." "INV_MISC_QUESTIONMARK"
+#showtooltip Feign Death
+/cast Feign Death
+/cast Play Dead
+END
+VER 3 0100000000000012 "." "INV_MISC_QUESTIONMARK"
+END
+VER 3 010000000000000C "3" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/use [nopet] Call Pet 3
+/cast [@pet,nodead] Mend Pet
+/cast Revive Pet
+END
+VER 3 010000000000000D "4" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/use [nopet] Call Pet 4
+/cast [@pet,nodead] Mend Pet
+/cast Revive Pet
+END
+VER 3 0100000000000001 "Attack" "458724"
+/petattack
+END
+VER 3 0100000000000007 "BM" "INV_MISC_QUESTIONMARK"
+Agility;
+Weapon DPS;
+Mastery;
+Haste;
+Multistrike;
+Versatility;
+Critical Strike
+END
+VER 3 0100000000000004 "Focus" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [target=focus] Misdirection
+END
+VER 3 0100000000000002 "Follow" "1029723"
+#showtooltip petFollow
+/petfollow
+END
+VER 3 0100000000000006 "MM" "INV_MISC_QUESTIONMARK"
+    Weapon DPS;
+    Agility;
+    Critical Strike;
+    Multistrike;
+    Versatility;
+    Mastery;
+    Haste.
+END
+VER 3 0100000000000005 "Pet" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [target=pet] Misdirection
+END

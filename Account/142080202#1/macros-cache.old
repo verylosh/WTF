@@ -1,0 +1,96 @@
+VER 3 0000000000000033 "-AOTC" "237446"
+/run DEFAULT_CHAT_FRAME:AddMessage("\124cffffff00\124Hachievement:11195:"..string.gsub(UnitGUID("player"), '0x', '')..":1:4:7:17:4294967295:4294967295:4294967295:4294967295\124h[Ahead of the Curve: Gul'dan]\124h\124r")
+END
+VER 3 0000000000000034 "-Tomb1" "134331"
+/run DEFAULT_CHAT_FRAME:AddMessage("\124cffffff00\124Hachievement:11790:"..string.gsub(UnitGUID("player"), '0x', '')..":1:6:30:17:4294967295:4294967295:4294967295:4294967295\124h[Deceiver's Fall]\124h\124r")
+END
+VER 3 0000000000000035 "-Tomb2" "134331"
+/run DEFAULT_CHAT_FRAME:AddMessage("\124cffffff00\124Hachievement:11788:"..string.gsub(UnitGUID("player"), '0x', '')..":1:7:1:17:4294967295:4294967295:4294967295:4294967295\124h[Wailing Halls]\124h\124r")
+END
+VER 3 0000000000000036 "-Tomb3" "134331"
+/run DEFAULT_CHAT_FRAME:AddMessage("\124cffffff00\124Hachievement:11789:"..string.gsub(UnitGUID("player"), '0x', '')..":1:7:1:17:4294967295:4294967295:4294967295:4294967295\124h[Chamber of the Avatar]\124h\124r")
+END
+VER 3 0000000000000007 "." "133632"
+#showtooltip
+/use 15
+END
+VER 3 0000000000000003 "." "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast Avenging Wrath
+/use 13
+/use 14
+END
+VER 3 0000000000000030 "." "INV_MISC_QUESTIONMARK"
+/logout
+END
+VER 3 000000000000001E "." "INV_MISC_QUESTIONMARK"
+#showtooltip 16
+/run SocketInventoryItem(16);
+END
+VER 3 000000000000001F "." "INV_MISC_QUESTIONMARK"
+#showtooltip
+/click ExtraActionButton1
+END
+VER 3 0000000000000006 "." "133031"
+#showtooltip
+/use 6
+END
+VER 3 0000000000000014 "." "INV_MISC_QUESTIONMARK"
+#showtooltip Healing Tonic
+/use Healthstone
+/use Healing Tonic
+/use Shieldtronic Shield
+END
+VER 3 000000000000001B "1 /generalinv" "ACHIEVEMENT_GUILDPERK_MOBILEBANKING"
+/generalinv
+END
+VER 3 0000000000000024 "achiv" "136013"
+/script ChatFrame1:AddMessage("\124cffffff00\124Hachievement:11429:Player-3687-0760E97A:1:11:11:16:4294967295:4294967295:4294967295:4294967295\124h[Return to Karazhan]\124h\124r") 
+END
+VER 3 0000000000000008 "camera" "INV_MISC_QUESTIONMARK"
+/console cameraDistanceMax 50 
+END
+VER 3 0000000000000025 "Hidden" "ACHIEVEMENT_GUILDPERK_MOBILEBANKING"
+/run local _,_,_,a, b = GetAchievementCriteriaInfo(11152,1) local _,_,_,c, d = GetAchievementCriteriaInfo(11153,1) local _,_,_,e, f = GetAchievementCriteriaInfo(11154,1) print("Dungeons: "..a.."/"..b) print("WQs: "..c.."/"..d) print("Kills: "..e.."/"..f)
+END
+VER 3 0000000000000001 "max dis" "INV_MISC_QUESTIONMARK"
+/script SetCVar("cameraDistanceMax",30) 
+END
+VER 3 000000000000000B "MaxCamera" "ACHIEVEMENT_ZONE_DRAENOR_01"
+/console cameraDistanceMaxFactor 2.6
+/console cameraDistanceMoveSpeed 12
+END
+VER 3 000000000000000D "multy" "INV_MISC_QUESTIONMARK"
+#showtooltip 
+/cast [talent:4/2] Shadowstep; [talent:4/3] Burst of Speed
+END
+VER 3 0000000000000004 "nkeel" "INV_MISC_QUESTIONMARK"
+/tar annihilator
+END
+VER 3 0000000000000005 "On/Off" "133667"
+/script if GetCVar("autoLootDefault") == "1" then SetCVar("autoLootDefault", "0"); print("Autoloot Off"); else SetCVar("autoLootDefault", "1"); print("Autoloot On"); end
+END
+VER 3 0000000000000032 "Q" "INV_MISC_QUESTIONMARK"
+/script print(IsQuestFlaggedCompleted(47137))
+/script print(IsQuestFlaggedCompleted(46734))
+/script print(IsQuestFlaggedCompleted(46245))
+END
+VER 3 000000000000000A "recount" "ACHIEVEMENT_GUILDPERK_QUICK AND DEAD"
+/recount show
+END
+VER 3 0000000000000002 "s" "INV_MISC_QUESTIONMARK"
+/target orphan
+END
+VER 3 0000000000000027 "TARGET" "132222"
+/script SetRaidTarget("mouseover",7)
+END
+VER 3 000000000000002F "Target->Skull" "878223"
+/script SetRaidTarget("target",8)
+END
+VER 3 000000000000002A "TIMEWALKING Q" "606552"
+/run a={[40168]="BC(Shatt):",[40173]="WotLK(Dala):",[40787]="Cata.A(SW):",[40786]="Cata.H(OG):",[45563]="Panda(T.Isle):"}; for b,c in pairs(a) do if IsQuestFlaggedCompleted(b)then print(c.." competed+++");else print(c.." open---");end;end;
+END
+VER 3 0000000000000031 "TSMMacro" "Achievement_Faction_GoldenLotus"
+/click TSMAuctioningCancelButton
+/click TSMAuctioningPostButton
+END

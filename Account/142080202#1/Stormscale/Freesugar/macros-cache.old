@@ -1,0 +1,36 @@
+VER 3 0100000000000007 "." "INV_MISC_QUESTIONMARK"
+#showtooltip 
+/cast [@player]Levitate
+END
+VER 3 0100000000000001 "." "INV_MISC_QUESTIONMARK"
+#showtooltip 
+/cast [@player]power word: shield
+END
+VER 3 0100000000000008 "." "INV_MISC_QUESTIONMARK"
+#showtooltip Dispersion
+/stopcasting
+/cast Dispersion
+/cancelaura Dispersion
+END
+VER 3 0100000000000002 "." "INV_MISC_QUESTIONMARK"
+#showtooltip Plea
+/cast [target=mouseover,help,nodead][] Plea
+END
+VER 3 0100000000000003 "." "INV_MISC_QUESTIONMARK"
+#showtooltip Shadow Mend
+/cast [target=mouseover,help,nodead][] Shadow Mend
+END
+VER 3 0100000000000004 "." "INV_MISC_QUESTIONMARK"
+#showtooltip Power Word: Shield
+/cast [target=mouseover,help,nodead][] Power Word: Shield
+END
+VER 3 0100000000000006 "." "INV_MISC_QUESTIONMARK"
+#showtooltip Void Eruption
+/use 13
+/use 14
+/cast Void Eruption
+END
+VER 3 0100000000000005 "." "INV_MISC_QUESTIONMARK"
+#showtooltip Purify
+/cast [target=mouseover,help,nodead][] Purify
+END

@@ -1,0 +1,12 @@
+VER 3 0100000000000003 "focus" "INV_MISC_QUESTIONMARK"
+/focus
+END
+VER 3 0100000000000002 "MD" "INV_MISC_QUESTIONMARK"
+/cast [target=focus] misdirection
+END
+VER 3 0100000000000001 "nuke" "INV_MISC_QUESTIONMARK"
+#showtooltip Rapid Fire
+/cast Rapid Fire
+/cast Blood Fury
+/cast Bestial Wrath
+END

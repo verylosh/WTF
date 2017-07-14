@@ -1,0 +1,18 @@
+VER 3 0100000000000001 "deeps" "INV_MISC_QUESTIONMARK"
+/cast ascendance
+/cast elemental mastery
+END
+VER 3 0100000000000002 "fury" "INV_MISC_QUESTIONMARK"
+#showtooltip elemental mastery
+/cast blood fury
+/cast elemental mastery
+/cast Feral Spirit
+/use 13
+/use 14
+END
+VER 3 0100000000000003 "mill" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/use Milling
+/stopmacro [mod]
+/use Talador Orchid
+END

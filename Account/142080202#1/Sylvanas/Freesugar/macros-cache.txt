@@ -1,0 +1,87 @@
+VER 3 010000000000000D "." "INV_MISC_QUESTIONMARK"
+#showtooltip 
+/cast [talent:2/1] Renuwal; [talent:2/2] Displacer Beast; [talent:2/3] Wild Charge
+END
+VER 3 0100000000000001 "." "INV_MISC_QUESTIONMARK"
+#showtooltip Innervate
+/cast {target=Freesugarr] Innervate
+END
+VER 3 0100000000000006 "." "INV_MISC_QUESTIONMARK"
+#showtooltip Regrowth
+/run SetCVar("autoUnshift",0)
+/cast [@focus,noharm,exists][target=player] Regrowth
+/run SetCVar("autoUnshift",1)
+END
+VER 3 0100000000000019 "." "INV_MISC_QUESTIONMARK"
+#showtooltip 
+/cast [talent:6/2] Astral Communion; [talent:6/3] Blessing of the Ancients
+END
+VER 3 0100000000000014 "." "INV_MISC_QUESTIONMARK"
+#showtooltip Regrowth
+/use [@mouseover,help,nodead][help,nodead][@player]Regrowth
+END
+VER 3 0100000000000015 "." "INV_MISC_QUESTIONMARK"
+#showtooltip Rejuvenation
+/use [@mouseover,help,nodead][help,nodead][@player]Rejuvenation
+END
+VER 3 010000000000001C "." "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast sunfire
+/use 12
+END
+VER 3 010000000000001D "." "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast Solar Wrath(Solar)
+/use 12
+END
+VER 3 010000000000001E "." "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast moonfire
+/use 12
+END
+VER 3 0100000000000021 "." "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [stance:1] Swipe
+/cast [stance:2] Thrash(Feral, Guardian)
+/cast Moonfire(Lunar)
+END
+VER 3 0100000000000020 "." "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [stance:1] Maul
+/cast [stance:2] Dash
+/cast [stance:4] Entangling Roots
+/cast [stance:0] Entangling Roots
+END
+VER 3 0100000000000022 "." "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [stance:1] Growl
+/cast [stance:2] Prowl
+/cast Prowl
+END
+VER 3 0100000000000023 "." "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [stance:1] Swipe
+/cast [stance:2] Thrash(Feral, Guardian)
+/cast Moonfire(Lunar)
+END
+VER 3 010000000000000E ".." "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast Mangle
+/cast Thrash
+/cast Swipe
+END
+VER 3 0100000000000007 ".." "INV_MISC_QUESTIONMARK"
+#showtooltip Healing Touch
+/run SetCVar("autoUnshift",0)
+/cast Healing Touch
+/run SetCVar("autoUnshift",1)
+END
+VER 3 0100000000000003 "asd" "INV_MISC_QUESTIONMARK"
+/cast [stance:1] !Bear Form
+END
+VER 3 010000000000001F "morpf" "INV_MISC_QUESTIONMARK"
+.race 4
+.gender
+.haircolor 7
+.hair 13
+END

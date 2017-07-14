@@ -1,0 +1,89 @@
+
+MogItDB = {
+	["profileKeys"] = {
+		["Quickchill - Sylvanas"] = "Default",
+		["Nihilism - Sylvanas"] = "Default",
+		["Psyborn - Sylvanas"] = "Default",
+		["Psyborn - Stormscale"] = "Default",
+		["Vivata - Sylvanas"] = "Default",
+		["Mysteriez - Sylvanas"] = "Default",
+		["Verylosh - Stormscale"] = "Default",
+		["Verylosh - Sylvanas"] = "Default",
+		["Freesugar - Sylvanas"] = "Default",
+		["Bigthingz - Sylvanas"] = "Default",
+		["Damnsouls - Sylvanas"] = "Default",
+		["Freesugar - Argent Dawn"] = "Default",
+		["Zooming - Sylvanas"] = "Default",
+	},
+	["global"] = {
+		["version"] = "3.6.5",
+	},
+	["profiles"] = {
+		["Default"] = {
+			["previewProps"] = {
+				{
+					["y"] = 0,
+					["h"] = 385.000030517578,
+					["w"] = 334.999877929688,
+					["x"] = 0,
+				}, -- [1]
+			},
+			["tooltip"] = false,
+			["gridHeight"] = 399.999877929688,
+			["x"] = -0.99969744682312,
+			["minimap"] = {
+				["hide"] = true,
+			},
+			["gridWidth"] = 600.000122070313,
+			["y"] = -0.999981880187988,
+		},
+	},
+}
+MogItWishlist = {
+	["global"] = {
+		["version"] = 70100,
+	},
+	["profileKeys"] = {
+		["Quickchill - Sylvanas"] = "Quickchill - Sylvanas",
+		["Nihilism - Sylvanas"] = "Nihilism - Sylvanas",
+		["Psyborn - Sylvanas"] = "Psyborn - Sylvanas",
+		["Psyborn - Stormscale"] = "Psyborn - Stormscale",
+		["Vivata - Sylvanas"] = "Vivata - Sylvanas",
+		["Mysteriez - Sylvanas"] = "Mysteriez - Sylvanas",
+		["Verylosh - Stormscale"] = "Verylosh - Stormscale",
+		["Verylosh - Sylvanas"] = "Verylosh - Sylvanas",
+		["Freesugar - Sylvanas"] = "Freesugar - Sylvanas",
+		["Bigthingz - Sylvanas"] = "Bigthingz - Sylvanas",
+		["Damnsouls - Sylvanas"] = "Damnsouls - Sylvanas",
+		["Freesugar - Argent Dawn"] = "Freesugar - Argent Dawn",
+		["Zooming - Sylvanas"] = "Zooming - Sylvanas",
+	},
+	["profiles"] = {
+		["Quickchill - Sylvanas"] = {
+		},
+		["Nihilism - Sylvanas"] = {
+		},
+		["Psyborn - Sylvanas"] = {
+		},
+		["Psyborn - Stormscale"] = {
+		},
+		["Vivata - Sylvanas"] = {
+		},
+		["Mysteriez - Sylvanas"] = {
+		},
+		["Verylosh - Stormscale"] = {
+		},
+		["Verylosh - Sylvanas"] = {
+		},
+		["Freesugar - Sylvanas"] = {
+		},
+		["Bigthingz - Sylvanas"] = {
+		},
+		["Damnsouls - Sylvanas"] = {
+		},
+		["Freesugar - Argent Dawn"] = {
+		},
+		["Zooming - Sylvanas"] = {
+		},
+	},
+}

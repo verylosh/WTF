@@ -1,0 +1,12 @@
+
+PawnOptions = {
+	["LastVersion"] = 2.0115,
+	["LastPlayerFullName"] = "Dellera-Stormscale",
+	["AutoSelectScales"] = true,
+	["UpgradeTracking"] = false,
+	["LastKeybindingsSet"] = 1,
+}
+PawnMrRobotScaleProviderOptions = {
+	["LastClass"] = "DEMONHUNTER",
+	["LastAdded"] = 1,
+}

@@ -1,0 +1,22 @@
+VER 3 0100000000000002 "deeps" "INV_MISC_QUESTIONMARK"
+/cast Avenging Wrath
+/use 13
+/use 14
+END
+VER 3 0100000000000003 "divine" "INV_MISC_QUESTIONMARK"
+/cast divine shield
+/cancelaura divine shield
+END
+VER 3 0100000000000001 "hop" "INV_MISC_QUESTIONMARK"
+/cast Hand of Protection
+/cancelaura hand of protection
+END
+VER 3 0100000000000005 "seals" "INV_MISC_QUESTIONMARK"
+/cast seal of truth
+/cast seal of righteousness
+END
+VER 3 0100000000000004 "sera" "INV_MISC_QUESTIONMARK"
+/cast seraphim
+/use 13
+/use 14
+END

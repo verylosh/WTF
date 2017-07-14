@@ -1,0 +1,12 @@
+VER 3 0100000000000002 "aoe taunt" "INV_MISC_QUESTIONMARK"
+/target Black Ox Statue
+/cast Prooke
+END
+VER 3 0100000000000001 "keg" "INV_MISC_QUESTIONMARK"
+/cast Keg Smash
+/cast Jab
+END
+VER 3 0100000000000003 "stance" "INV_MISC_QUESTIONMARK"
+/cast Stance of the Spirited Crane
+/cast Stance of the Wise Serpent
+END

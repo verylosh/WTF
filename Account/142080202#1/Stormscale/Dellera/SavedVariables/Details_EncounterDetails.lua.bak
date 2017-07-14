@@ -1,0 +1,111 @@
+
+EncounterDetailsDB = {
+	["encounter_spells"] = {
+		[29799] = {
+			["school"] = 1,
+			["token"] = {
+				["SPELL_CAST_SUCCESS"] = true,
+			},
+			["source"] = "Attumen the Huntsman",
+		},
+		[29920] = {
+			["school"] = 1,
+			["type"] = "BUFF",
+			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+			},
+			["source"] = "Spell Shade",
+		},
+		[18812] = {
+			["school"] = 1,
+			["type"] = "DEBUFF",
+			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_DAMAGE"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+			},
+			["source"] = "Spectral Stable Hand",
+		},
+		[29320] = {
+			["school"] = 1,
+			["type"] = "DEBUFF",
+			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_DAMAGE"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+			},
+			["source"] = "Spectral Charger",
+		},
+		[29340] = {
+			["school"] = 8,
+			["type"] = "BUFF",
+			["token"] = {
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_AURA_APPLIED"] = true,
+			},
+			["source"] = "Spectral Stable Hand",
+		},
+		[29770] = {
+			["school"] = 1,
+			["token"] = {
+				["SPELL_CAST_SUCCESS"] = true,
+			},
+			["source"] = "Midnight",
+		},
+		[29714] = {
+			["school"] = 1,
+			["token"] = {
+				["SPELL_CAST_SUCCESS"] = true,
+			},
+			["source"] = "Midnight",
+		},
+	},
+	["emotes"] = {
+		{
+			{
+				1.35899999999674, -- [1]
+				"%s calls for her master!", -- [2]
+				"Midnight", -- [3]
+				3, -- [4]
+			}, -- [1]
+			{
+				1.35899999999674, -- [1]
+				"Cowards! Wretches!", -- [2]
+				"Attumen the Huntsman", -- [3]
+				7, -- [4]
+			}, -- [2]
+			{
+				1.35899999999674, -- [1]
+				"Come Midnight, let's disperse this petty rabble!", -- [2]
+				"Attumen the Huntsman", -- [3]
+				7, -- [4]
+			}, -- [3]
+			{
+				2.97899999999208, -- [1]
+				"You are not welcome here!", -- [2]
+				"Spectral Stable Hand", -- [3]
+				4, -- [4]
+			}, -- [4]
+			{
+				6.61600000003818, -- [1]
+				"Always knew... someday I would become... the hunted.", -- [2]
+				"Attumen the Huntsman", -- [3]
+				7, -- [4]
+			}, -- [5]
+			{
+				6.61600000003818, -- [1]
+				"What will become of--", -- [2]
+				"Spectral Stable Hand", -- [3]
+				4, -- [4]
+			}, -- [6]
+			{
+				6.61600000003818, -- [1]
+				"Is this the end?", -- [2]
+				"Spectral Stable Hand", -- [3]
+				4, -- [4]
+			}, -- [7]
+			["boss"] = "Attumen the Huntsman",
+		}, -- [1]
+	},
+}

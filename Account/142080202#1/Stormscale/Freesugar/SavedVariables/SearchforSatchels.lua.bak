@@ -1,0 +1,21 @@
+
+SearchforSatchelsDB = {
+	["raidwarning"] = "true",
+	["soundinifertig"] = "false",
+	["shorttext"] = "false",
+	["tokens"] = 0,
+	["scanHeal"] = "true",
+	["lootsoundt"] = "false",
+	["lootsoundb"] = "false",
+	["MBpos"] = 295,
+	["MBRpos"] = 85,
+	["ade"] = 0,
+	["showMainFrame"] = false,
+	["aacti"] = "true",
+	["version"] = "0.1.2",
+	["salt"] = "true",
+	["talismans"] = 0,
+	["satchels"] = 0,
+	["updateint"] = 45,
+	["sounds"] = "true",
+}

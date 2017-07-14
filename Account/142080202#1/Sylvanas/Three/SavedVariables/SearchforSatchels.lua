@@ -1,0 +1,23 @@
+
+SearchforSatchelsDB = {
+	["raidwarning"] = "true",
+	["soundinifertig"] = "false",
+	["shorttext"] = "false",
+	["tokens"] = 0,
+	["scanHeal"] = "true",
+	["lfrszw"] = "true",
+	["lootsoundt"] = "false",
+	["lootsoundb"] = "false",
+	["MBpos"] = 349,
+	["MBRpos"] = 85,
+	["ade"] = 0,
+	["showMainFrame"] = false,
+	["talismans"] = 0,
+	["aacti"] = "true",
+	["version"] = "0.5.0",
+	["salt"] = "true",
+	["lfrchat"] = "true",
+	["satchels"] = 0,
+	["updateint"] = 45,
+	["sounds"] = "true",
+}

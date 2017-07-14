@@ -1,0 +1,62 @@
+BINDINGMODE 0
+bind BUTTON3 CLICK BT4Button48:LeftButton
+bind BUTTON4 CLICK BT4Button69:LeftButton
+bind R CLICK BT4Button110:LeftButton
+bind SHIFT-R CLICK BT4Button16:LeftButton
+bind 6 CLICK BT4Button42:LeftButton
+bind 7 NONE
+bind 8 NONE
+bind 9 NONE
+bind 0 NONE
+bind - NONE
+bind = NONE
+bind CTRL-F1 NONE
+bind CTRL-F2 NONE
+bind CTRL-F3 NONE
+bind CTRL-F4 NONE
+bind CTRL-1 CLICK BT4Button13:LeftButton
+bind CTRL-2 CLICK BT4Button14:LeftButton
+bind CTRL-3 CLICK BT4Button112:LeftButton
+bind CTRL-4 CLICK BT4Button113:LeftButton
+bind CTRL-5 CLICK BT4Button67:LeftButton
+bind SHIFT-1 CLICK BT4Button51:LeftButton
+bind SHIFT-2 CLICK BT4Button119:LeftButton
+bind SHIFT-3 CLICK BT4Button117:LeftButton
+bind SHIFT-4 CLICK BT4Button118:LeftButton
+bind SHIFT-5 CLICK BT4Button55:LeftButton
+bind SHIFT-MOUSEWHEELUP BONUSACTIONBUTTON3
+bind SHIFT-MOUSEWHEELDOWN BONUSACTIONBUTTON4
+bind F1 CLICK BT4Button26:LeftButton
+bind F2 CLICK BT4Button28:LeftButton
+bind F3 CLICK BT4Button30:LeftButton
+bind F4 CLICK BT4Button32:LeftButton
+bind F5 CLICK BT4Button34:LeftButton
+bind G CLICK BT4Button111:LeftButton
+bind F CLICK BT4Button116:LeftButton
+bind CTRL-V CLICK BT4Button72:LeftButton
+bind SHIFT-T CLICK BT4Button27:LeftButton
+bind CTRL-R CLICK BT4Button46:LeftButton
+bind CTRL-MOUSEWHEELUP BONUSACTIONBUTTON1
+bind CTRL-MOUSEWHEELDOWN BONUSACTIONBUTTON2
+bind SHIFT-G CLICK BT4Button79:LeftButton
+bind SHIFT-C CLICK BT4Button36:LeftButton
+bind ` CLICK BT4Button109:LeftButton
+bind BUTTON5 CLICK BT4Button15:LeftButton
+bind CTRL-C CLICK BT4Button94:LeftButton
+bind CTRL-BUTTON4 CLICK BT4Button114:LeftButton
+bind CTRL-BUTTON5 CLICK BT4Button59:LeftButton
+bind SHIFT-Z NONE
+bind SHIFT-X CLICK BT4Button35:LeftButton
+bind ALT-1 CLICK BT4Button83:LeftButton
+bind ALT-2 CLICK BT4Button84:LeftButton
+bind CTRL-BUTTON3 NONE
+bind CTRL-F CLICK BT4Button73:LeftButton
+bind SHIFT-F CLICK BT4Button77:LeftButton
+bind CTRL-SHIFT-MOUSEWHEELUP MACRO TSMMacro
+bind CTRL-SHIFT-MOUSEWHEELDOWN MACRO TSMMacro
+bind [ NONE
+bind ] NONE
+bind CTRL-G CLICK BT4Button74:LeftButton
+bind SHIFT-BUTTON4 CLICK BT4Button25:LeftButton
+bind CTRL-SHIFT-R NONE
+bind SHIFT-BUTTON5 NONE

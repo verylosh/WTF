@@ -1,0 +1,32 @@
+VER 3 0100000000000003 "." "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cancelaura Deterrence
+/cancelaura Hand of Protection
+/stopcasting
+/stopcasting
+/cast Kill Shot
+END
+VER 3 0100000000000001 "Attack" "458724"
+/petattack
+END
+VER 3 0100000000000004 "Focus" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [target=focus] Misdirection
+END
+VER 3 0100000000000002 "Follow" "1029723"
+#showtooltip petFollow
+/petfollow
+END
+VER 3 0100000000000006 "MM" "INV_MISC_QUESTIONMARK"
+    Weapon DPS;
+    Agility;
+    Critical Strike;
+    Multistrike;
+    Versatility;
+    Mastery;
+    Haste.
+END
+VER 3 0100000000000005 "Pet" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [target=pet] Misdirection
+END

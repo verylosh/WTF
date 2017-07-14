@@ -1,0 +1,113 @@
+
+TradeSkillMaster_MailingDB = {
+	["g@ @sendDelay"] = 0.5,
+	["c@Thirty - Sylvanas@goldKeepAmount"] = 1000000,
+	["g@ @helpPlatesShown"] = {
+		["other"] = true,
+		["groups"] = true,
+		["inbox"] = true,
+		["quickSend"] = true,
+	},
+	["c@Damnsouls - Sylvanas@goldMailTarget"] = "",
+	["_hash"] = 3711258,
+	["c@Zooming - Sylvanas@goldKeepAmount"] = 1000000,
+	["c@Verylosh - Sylvanas@goldKeepAmount"] = 1000000,
+	["c@Windborn - Sylvanas@goldKeepAmount"] = 1000000,
+	["c@Bashlosh - Stormscale@goldKeepAmount"] = 1000000,
+	["c@Quickchill - Sylvanas@goldMailTarget"] = "",
+	["c@Freesugar - Stormscale@goldMailTarget"] = "",
+	["c@Freesugar - Sylvanas@goldKeepAmount"] = 1000000,
+	["g@ @displayMoneyCollected"] = true,
+	["g@ @deleteEmptyNPCMail"] = false,
+	["c@Quickchill - Tarren Mill@goldKeepAmount"] = 1000000,
+	["c@Bigthingz - Sylvanas@goldMailTarget"] = "",
+	["c@Thirty - Sylvanas@goldMailTarget"] = "",
+	["c@Three - Sylvanas@goldKeepAmount"] = 1000000,
+	["g@ @deMaxQuality"] = 2,
+	["c@Damnsouls - Sylvanas@goldKeepAmount"] = 1000000,
+	["f@Horde - Tarren Mill@deMailTarget"] = "",
+	["_version"] = 1,
+	["g@ @sendMessages"] = true,
+	["f@Alliance - Tarren Mill@deMailTarget"] = "",
+	["g@ @sendItemsIndividually"] = false,
+	["f@Alliance - Sylvanas@deMailTarget"] = "",
+	["c@Crzy - Sylvanas@goldKeepAmount"] = 1000000,
+	["c@Quickchill - Tarren Mill@goldMailTarget"] = "",
+	["g@ @openMailSound"] = "TSM_NO_SOUND",
+	["c@Dellera - Stormscale@goldMailTarget"] = "",
+	["c@Three - Sylvanas@goldMailTarget"] = "",
+	["c@Freesugar - Sylvanas@goldMailTarget"] = "",
+	["c@Bigthingz - Sylvanas@goldKeepAmount"] = 1000000,
+	["g@ @inboxMessages"] = true,
+	["c@Dellera - Sylvanas@goldKeepAmount"] = 1000000,
+	["g@ @defaultMailTab"] = true,
+	["_currentProfile"] = {
+		["Quickchill - Sylvanas"] = "Default",
+		["Luffyd - Tarren Mill"] = "Default",
+		["Windborn - Sylvanas"] = "Default",
+		["Dellera - Sylvanas"] = "Default",
+		["Dellera - Stormscale"] = "Default",
+		["Three - Sylvanas"] = "Default",
+		["Damnsouls - Sylvanas"] = "Default",
+		["Zooming - Sylvanas"] = "Default",
+		["Thirty - Sylvanas"] = "Default",
+		["Bashlosh - Stormscale"] = "Default",
+		["Crzy - Sylvanas"] = "Default",
+		["Verylosh - Sylvanas"] = "Default",
+		["Bigthingz - Sylvanas"] = "Default",
+		["Freesugar - Sylvanas"] = "Default",
+		["Quickchill - Tarren Mill"] = "Default",
+		["Freesugar - Stormscale"] = "Default",
+	},
+	["c@Bashlosh - Stormscale@goldMailTarget"] = "",
+	["g@ @autoCheck"] = true,
+	["g@ @resendDelay"] = 1,
+	["c@Freesugar - Stormscale@goldKeepAmount"] = 1000000,
+	["f@Horde - Stormscale@deMailTarget"] = "",
+	["c@Luffyd - Tarren Mill@goldMailTarget"] = "",
+	["c@Dellera - Stormscale@goldKeepAmount"] = 1000000,
+	["g@ @defaultPage"] = 1,
+	["c@Verylosh - Sylvanas@goldMailTarget"] = "",
+	["c@Quickchill - Sylvanas@goldKeepAmount"] = 1000000,
+	["_scopeKeys"] = {
+		["char"] = {
+			"Verylosh - Sylvanas", -- [1]
+			"Freesugar - Stormscale", -- [2]
+			"Quickchill - Sylvanas", -- [3]
+			"Freesugar - Sylvanas", -- [4]
+			"Dellera - Sylvanas", -- [5]
+			"Zooming - Sylvanas", -- [6]
+			"Bigthingz - Sylvanas", -- [7]
+			"Bashlosh - Stormscale", -- [8]
+			"Crzy - Sylvanas", -- [9]
+			"Thirty - Sylvanas", -- [10]
+			"Dellera - Stormscale", -- [11]
+			"Damnsouls - Sylvanas", -- [12]
+			"Luffyd - Tarren Mill", -- [13]
+			"Windborn - Sylvanas", -- [14]
+			"Three - Sylvanas", -- [15]
+			"Quickchill - Tarren Mill", -- [16]
+		},
+		["realm"] = {
+			"Sylvanas", -- [1]
+			"Stormscale", -- [2]
+			"Tarren Mill", -- [3]
+		},
+		["profile"] = {
+			"Default", -- [1]
+		},
+		["factionrealm"] = {
+			"Alliance - Sylvanas", -- [1]
+			"Horde - Stormscale", -- [2]
+			"Alliance - Tarren Mill", -- [3]
+			"Horde - Tarren Mill", -- [4]
+		},
+	},
+	["g@ @keepMailSpace"] = 0,
+	["g@ @showReloadBtn"] = true,
+	["c@Luffyd - Tarren Mill@goldKeepAmount"] = 1000000,
+	["c@Zooming - Sylvanas@goldMailTarget"] = "",
+	["c@Windborn - Sylvanas@goldMailTarget"] = "",
+	["c@Dellera - Sylvanas@goldMailTarget"] = "",
+	["c@Crzy - Sylvanas@goldMailTarget"] = "",
+}

@@ -1,0 +1,12 @@
+MogIt: enabled
+ACP: enabled
+SimpleILevel: enabled
+XPerl_TeamSpeak: disabled
+Bagnon: disabled
+ArkInventoryRules: disabled
+ArkInventoryConfig: disabled
+ArkInventory: disabled
+Grid2AoeHeals: enabled
+SimpleILevel_Resilience: disabled
+ZPerl: enabled
+TradeSkillMaster_Crafting: enabled

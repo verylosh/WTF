@@ -1,0 +1,30 @@
+
+LegionRaresTreasuresDB = {
+	["profileKeys"] = {
+		["Dellera - Sylvanas"] = "Default",
+		["Dellera - Stormscale"] = "Default",
+		["Three - Sylvanas"] = "Default",
+		["Stonesong - Sylvanas"] = "Default",
+		["Bashlosh - Stormscale"] = "Default",
+		["Verylosh - Sylvanas"] = "Default",
+		["Bigthingz - Sylvanas"] = "Default",
+		["Freesugar - Sylvanas"] = "Default",
+		["Zooming - Sylvanas"] = "Default",
+		["Quickchill - Sylvanas"] = "Default",
+		["Thirty - Sylvanas"] = "Default",
+		["Luffyd - Tarren Mill"] = "Default",
+		["Freesugar - Argent Dawn"] = "Default",
+		["Snowrains - Stormscale"] = "Default",
+		["Psyborn - Sylvanas"] = "Default",
+		["Crzy - Sylvanas"] = "Default",
+		["Blahblahh - Sylvanas"] = "Default",
+		["Damnsouls - Stormscale"] = "Default",
+		["Damnsouls - Sylvanas"] = "Default",
+		["Quickchill - Tarren Mill"] = "Default",
+		["Freesugar - Stormscale"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+		},
+	},
+}

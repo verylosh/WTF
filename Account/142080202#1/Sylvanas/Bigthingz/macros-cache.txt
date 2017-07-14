@@ -1,0 +1,60 @@
+VER 3 0100000000000002 "." "INV_MISC_QUESTIONMARK"
+#showtooltip 
+/cast [talent:4/2] Shadowstep; [talent:4/3] Burst of Speed
+END
+VER 3 0100000000000007 "." "INV_MISC_QUESTIONMARK"
+#showtooltip 
+/cast [talent:7/2] Marked for Death; [talent:7/3] Death From Above; [talent:7/1] Slice and Dice
+END
+VER 3 0100000000000004 "." "INV_MISC_QUESTIONMARK"
+#showtooltip 
+/cast [talent:6/1] Cannonball Barrage; [talent:6/3] Killing Spree
+END
+VER 3 0100000000000003 "." "INV_MISC_QUESTIONMARK"
+#showtooltip Ambush
+/cast Premeditation
+/cast Ambush
+END
+VER 3 0100000000000009 "." "INV_MISC_QUESTIONMARK"
+#showtooltip [nostealth] Backstab; [stance:1]  Shadowstrike; [stance:2] Shadowstrike
+/cast [stance:1] Shadowstrike
+/cast [stance:2] Shadowstrike
+/cast [nostealth] Backstab
+END
+VER 3 010000000000000C "." "INV_MISC_QUESTIONMARK"
+#showtooltip [nostealth] Saber Slash; [stance:1]  Ambush; [stance:2] Ambush
+/cast [stance:1] Ambush
+/cast [stance:2] Ambush
+/cast [nostealth] Saber Slash
+END
+VER 3 010000000000000D "." "INV_MISC_QUESTIONMARK"
+#showtooltip Eviscerate
+/cast Eviscerate
+/use 13
+END
+VER 3 010000000000000E "." "INV_MISC_QUESTIONMARK"
+#showtooltip [nostealth] Gloomblade; [stance:1]  Shadowstrike; [stance:2] Shadowstrike
+/cast [stance:1] Shadowstrike
+/cast [stance:2] Shadowstrike
+/cast [nostealth] Gloomblade
+END
+VER 3 0100000000000008 "." "INV_MISC_QUESTIONMARK"
+#showtooltip Symbols of Death
+/use 14
+/cast Symbols of Death
+END
+VER 3 0100000000000006 "combat" "INV_MISC_QUESTIONMARK"
+    Agility;
+    Haste;
+    Multistrike;
+    Mastery;
+    Critical Strike.
+    Versatility.
+END
+VER 3 0100000000000001 "stat sub" "INV_MISC_QUESTIONMARK"
+Multistrike > Agility > Crit > Versatility > Mastery > Haste
+END
+VER 3 0100000000000005 "ToT" "INV_MISC_QUESTIONMARK"
+#showtooltip Tricks of the Trade
+/cast [target=focus] Tricks of the Trade
+END

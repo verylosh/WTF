@@ -1,0 +1,76 @@
+
+TomTomDB = {
+	["profileKeys"] = {
+		["Quickchill - Sylvanas"] = "Default",
+		["Luffyd - Tarren Mill"] = "Default",
+		["Dellera - Sylvanas"] = "Default",
+		["Dellera - Stormscale"] = "Default",
+		["Three - Sylvanas"] = "Default",
+		["Freesugar - Stormscale"] = "Default",
+		["Freesugar - Sylvanas"] = "Default",
+		["Crzy - Sylvanas"] = "Default",
+		["Bashlosh - Stormscale"] = "Default",
+		["Verylosh - Sylvanas"] = "Default",
+		["Thirty - Sylvanas"] = "Default",
+		["Bigthingz - Sylvanas"] = "Default",
+		["Damnsouls - Sylvanas"] = "Default",
+		["Quickchill - Tarren Mill"] = "Default",
+		["Zooming - Sylvanas"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+		},
+	},
+}
+TomTomWaypoints = nil
+TomTomWaypointsMF = {
+	["profileKeys"] = {
+		["Quickchill - Sylvanas"] = "Quickchill - Sylvanas",
+		["Luffyd - Tarren Mill"] = "Luffyd - Tarren Mill",
+		["Dellera - Sylvanas"] = "Dellera - Sylvanas",
+		["Dellera - Stormscale"] = "Dellera - Stormscale",
+		["Three - Sylvanas"] = "Three - Sylvanas",
+		["Freesugar - Stormscale"] = "Freesugar - Stormscale",
+		["Freesugar - Sylvanas"] = "Freesugar - Sylvanas",
+		["Crzy - Sylvanas"] = "Crzy - Sylvanas",
+		["Bashlosh - Stormscale"] = "Bashlosh - Stormscale",
+		["Verylosh - Sylvanas"] = "Verylosh - Sylvanas",
+		["Thirty - Sylvanas"] = "Thirty - Sylvanas",
+		["Bigthingz - Sylvanas"] = "Bigthingz - Sylvanas",
+		["Damnsouls - Sylvanas"] = "Damnsouls - Sylvanas",
+		["Quickchill - Tarren Mill"] = "Quickchill - Tarren Mill",
+		["Zooming - Sylvanas"] = "Zooming - Sylvanas",
+	},
+	["profiles"] = {
+		["Quickchill - Sylvanas"] = {
+		},
+		["Luffyd - Tarren Mill"] = {
+		},
+		["Dellera - Sylvanas"] = {
+		},
+		["Dellera - Stormscale"] = {
+		},
+		["Three - Sylvanas"] = {
+		},
+		["Freesugar - Stormscale"] = {
+		},
+		["Freesugar - Sylvanas"] = {
+		},
+		["Crzy - Sylvanas"] = {
+		},
+		["Bashlosh - Stormscale"] = {
+		},
+		["Verylosh - Sylvanas"] = {
+		},
+		["Thirty - Sylvanas"] = {
+		},
+		["Bigthingz - Sylvanas"] = {
+		},
+		["Damnsouls - Sylvanas"] = {
+		},
+		["Quickchill - Tarren Mill"] = {
+		},
+		["Zooming - Sylvanas"] = {
+		},
+	},
+}

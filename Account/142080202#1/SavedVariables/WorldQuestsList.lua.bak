@@ -1,0 +1,93 @@
+
+VWQL = {
+	["Dellera-Sylvanas"] = {
+		["Filter"] = 63,
+		["Quests"] = {
+		},
+		["FilterType"] = {
+		},
+	},
+	["Luffyd-TarrenMill"] = {
+		["FilterType"] = {
+		},
+		["Quests"] = {
+		},
+		["Filter"] = 63,
+	},
+	["Quickchill-Sylvanas"] = {
+		["Filter"] = 2,
+		["FilterType"] = {
+		},
+		["Quests"] = {
+			[43943] = true,
+			[44893] = true,
+		},
+		["HideMap"] = true,
+	},
+	["Zooming-Sylvanas"] = {
+		["HideMap"] = true,
+		["FilterType"] = {
+		},
+		["Quests"] = {
+		},
+		["Filter"] = 63,
+	},
+	["Verylosh-Sylvanas"] = {
+		["HideMap"] = true,
+		["FilterType"] = {
+		},
+		["Quests"] = {
+		},
+		["Filter"] = 63,
+	},
+	["Quickchill-TarrenMill"] = {
+		["Filter"] = 63,
+		["Quests"] = {
+		},
+		["FilterType"] = {
+		},
+	},
+	["Bigthingz-Sylvanas"] = {
+		["Filter"] = 63,
+		["FilterType"] = {
+		},
+		["Quests"] = {
+		},
+		["HideMap"] = true,
+	},
+	["Sort"] = 5,
+	["VERSION"] = 33,
+	["Freesugar-Stormscale"] = {
+		["HideMap"] = true,
+		["FilterType"] = {
+		},
+		["Quests"] = {
+		},
+		["Filter"] = 63,
+	},
+	["Thirty-Sylvanas"] = {
+		["HideMap"] = true,
+		["FilterType"] = {
+		},
+		["Quests"] = {
+		},
+		["Filter"] = 63,
+	},
+	["Crzy-Sylvanas"] = {
+		["FilterType"] = {
+		},
+		["Quests"] = {
+		},
+		["Filter"] = 63,
+	},
+	["Freesugar-Sylvanas"] = {
+		["HideMap"] = true,
+		["Filter"] = 2,
+		["Quests"] = {
+			[44893] = true,
+			[43943] = true,
+		},
+		["FilterType"] = {
+		},
+	},
+}

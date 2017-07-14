@@ -1,0 +1,4 @@
+VER 3 0100000000000001 "." "INV_MISC_QUESTIONMARK"
+#showtooltip 
+/cast [talent:3/2] Rend; [talent:3/3] Avatar
+END
